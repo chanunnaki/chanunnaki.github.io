@@ -6,10 +6,20 @@
     <description>Recent content on Down &amp; Output</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Apr 2019 14:49:14 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2019 11:24:59 +0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>⌘ Change macOS Icons</title>
+      <link>/posts/change_mac_icons/</link>
+      <pubDate>Sun, 14 Apr 2019 11:24:59 +0700</pubDate>
+      
+      <guid>/posts/change_mac_icons/</guid>
+      <description>If you&amp;rsquo;ve ever thought about wanting to change the standard icons of any app or folder on macOS, you&amp;rsquo;ve come to the right place. It&amp;rsquo;s actually very easy, and can be done is just a few easy steps.
+You first need to find and download an icon. I recommend the site IconArchive, they have many high-quality icons. You need to download the icon in the .icns format, and if you&amp;rsquo;ve got a retina display, I suggest you filter for Large Icons.</description>
+    </item>
     
     <item>
       <title>⌘ macOS Color Pickers</title>

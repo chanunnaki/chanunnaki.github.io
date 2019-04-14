@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Down &amp; Output</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Apr 2019 14:49:14 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2019 11:24:59 +0700</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,36 @@
     <item>
       <title>apple</title>
       <link>/tags/apple/</link>
-      <pubDate>Fri, 12 Apr 2019 14:49:14 +0700</pubDate>
+      <pubDate>Sun, 14 Apr 2019 11:24:59 +0700</pubDate>
       
       <guid>/tags/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>icons</title>
+      <link>/tags/icons/</link>
+      <pubDate>Sun, 14 Apr 2019 11:24:59 +0700</pubDate>
+      
+      <guid>/tags/icons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mac</title>
+      <link>/tags/mac/</link>
+      <pubDate>Sun, 14 Apr 2019 11:24:59 +0700</pubDate>
+      
+      <guid>/tags/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>/tags/tutorial/</link>
+      <pubDate>Sun, 14 Apr 2019 11:24:59 +0700</pubDate>
+      
+      <guid>/tags/tutorial/</guid>
       <description></description>
     </item>
     
@@ -26,15 +53,6 @@
       <pubDate>Fri, 12 Apr 2019 14:49:14 +0700</pubDate>
       
       <guid>/tags/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mac</title>
-      <link>/tags/mac/</link>
-      <pubDate>Fri, 12 Apr 2019 14:49:14 +0700</pubDate>
-      
-      <guid>/tags/mac/</guid>
       <description></description>
     </item>
     
