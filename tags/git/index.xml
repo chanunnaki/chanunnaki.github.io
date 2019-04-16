@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>terminal on Down &amp; Output</title>
-    <link>/tags/terminal/</link>
-    <description>Recent content in terminal on Down &amp; Output</description>
+    <title>git on Down &amp; Output</title>
+    <link>/tags/git/</link>
+    <description>Recent content in git on Down &amp; Output</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Apr 2019 17:01:30 +0700</lastBuildDate>
     
-	<atom:link href="/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>/posts/hugo-tutorial-one/</guid>
       <description>In this first part of a three-part series, I&amp;rsquo;ll guide you in setting up a simple blog like the one you&amp;rsquo;re on right now, and show you how to host it for free on Github Pages. When I began on this journey myself, I had close to zero experience with Github. I followed some of the available guides already out there on the web, (including those from Hugo themselves), but there were some parts that didn’t quite click with me right away and it relied upon a lot of time and trial &amp;amp; error before it all finally worked.</description>
-    </item>
-    
-    <item>
-      <title>⌘ Terminal Navigation 101</title>
-      <link>/posts/terminal-tutorial/</link>
-      <pubDate>Tue, 16 Apr 2019 10:11:56 +0700</pubDate>
-      
-      <guid>/posts/terminal-tutorial/</guid>
-      <description>The Terminal, (AKA CLI, or &amp;ldquo;Command-Line Interface&amp;rdquo;) is super-powerful and allows you to interface directly with the underlying workings of your operating system. It&amp;rsquo;s pretty essential you learn how to use the Terminal if you&amp;rsquo;re going to be developing software or doing any more advanced operations within your operating system as many operations are done exclusively through the Terminal.
-In this post, I&amp;rsquo;ll give you a quick run-down on how to navigate your file system in Terminal.</description>
     </item>
     
   </channel>
