@@ -6,17 +6,17 @@
     <description>Recent content in Posts on Down &amp; Output</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Apr 2019 17:01:30 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2019 17:06:20 +0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Getting Started with Hugo - Part 1</title>
-      <link>/posts/hugo-tutorial-one/</link>
-      <pubDate>Tue, 16 Apr 2019 17:01:30 +0700</pubDate>
+      <title>Getting Started with Hugo</title>
+      <link>/posts/hugo-tut-one/</link>
+      <pubDate>Tue, 16 Apr 2019 17:06:20 +0700</pubDate>
       
-      <guid>/posts/hugo-tutorial-one/</guid>
+      <guid>/posts/hugo-tut-one/</guid>
       <description>In this first part of a three-part series, I&amp;rsquo;ll guide you in setting up a simple blog like the one you&amp;rsquo;re on right now, and show you how to host it for free on Github Pages. When I began on this journey myself, I had close to zero experience with Github. I followed some of the available guides already out there on the web, (including those from Hugo themselves), but there were some parts that didn’t quite click with me right away and it relied upon a lot of time and trial &amp;amp; error before it all finally worked.</description>
     </item>
     
