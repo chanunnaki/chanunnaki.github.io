@@ -3,157 +3,157 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>http://downandoutput.com/</loc>
     <lastmod>2019-04-16T17:06:20+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/hugo-tut-one/</loc>
+    <loc>http://downandoutput.com/posts/hugo-tut-one/</loc>
     <lastmod>2019-04-16T17:06:20+07:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2019-04-16T17:06:20+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>http://downandoutput.com/posts/</loc>
     <lastmod>2019-04-16T17:06:20+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/blogging/</loc>
+    <loc>http://downandoutput.com/tags/</loc>
     <lastmod>2019-04-16T17:06:20+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/git/</loc>
+    <loc>http://downandoutput.com/tags/blogging/</loc>
     <lastmod>2019-04-16T17:06:20+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/hugo/</loc>
+    <loc>http://downandoutput.com/tags/git/</loc>
     <lastmod>2019-04-16T17:06:20+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/terminal/</loc>
+    <loc>http://downandoutput.com/tags/hugo/</loc>
     <lastmod>2019-04-16T17:06:20+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/tutorial/</loc>
+    <loc>http://downandoutput.com/tags/terminal/</loc>
     <lastmod>2019-04-16T17:06:20+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/101/</loc>
+    <loc>http://downandoutput.com/tags/tutorial/</loc>
+    <lastmod>2019-04-16T17:06:20+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://downandoutput.com/tags/101/</loc>
     <lastmod>2019-04-16T10:11:56+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/macos/</loc>
+    <loc>http://downandoutput.com/tags/macos/</loc>
     <lastmod>2019-04-16T10:11:56+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/terminal-tutorial/</loc>
+    <loc>http://downandoutput.com/posts/terminal-tutorial/</loc>
     <lastmod>2019-04-16T10:11:56+07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/emulation/</loc>
+    <loc>http://downandoutput.com/tags/emulation/</loc>
     <lastmod>2019-04-16T07:19:01+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/gaming/</loc>
+    <loc>http://downandoutput.com/tags/gaming/</loc>
     <lastmod>2019-04-16T07:19:01+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/hd/</loc>
+    <loc>http://downandoutput.com/tags/hd/</loc>
     <lastmod>2019-04-16T07:19:01+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/nintendo/</loc>
+    <loc>http://downandoutput.com/tags/nintendo/</loc>
     <lastmod>2019-04-16T07:19:01+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/retro/</loc>
+    <loc>http://downandoutput.com/tags/retro/</loc>
     <lastmod>2019-04-16T07:19:01+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/snes-hd/</loc>
+    <loc>http://downandoutput.com/posts/snes-hd/</loc>
     <lastmod>2019-04-16T07:19:01+07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/apple/</loc>
+    <loc>http://downandoutput.com/tags/apple/</loc>
     <lastmod>2019-04-14T11:24:59+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/icons/</loc>
+    <loc>http://downandoutput.com/tags/icons/</loc>
     <lastmod>2019-04-14T11:24:59+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/mac/</loc>
+    <loc>http://downandoutput.com/tags/mac/</loc>
     <lastmod>2019-04-14T11:24:59+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/change-mac-icons/</loc>
+    <loc>http://downandoutput.com/posts/change-mac-icons/</loc>
     <lastmod>2019-04-14T11:24:59+07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/design/</loc>
+    <loc>http://downandoutput.com/tags/design/</loc>
     <lastmod>2019-04-12T14:49:14+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/software/</loc>
+    <loc>http://downandoutput.com/tags/software/</loc>
     <lastmod>2019-04-12T14:49:14+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/mac-color-pickers/</loc>
+    <loc>http://downandoutput.com/posts/mac-color-pickers/</loc>
     <lastmod>2019-04-12T14:49:14+07:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>http://downandoutput.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>http://downandoutput.com/contact/</loc>
   </url>
   
 </urlset>

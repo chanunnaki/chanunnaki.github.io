@@ -2,165 +2,165 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Down &amp; Output</title>
-    <link>/tags/</link>
+    <link>http://downandoutput.com/tags/</link>
     <description>Recent content in Tags on Down &amp; Output</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Apr 2019 17:06:20 +0700</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://downandoutput.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>blogging</title>
-      <link>/tags/blogging/</link>
+      <link>http://downandoutput.com/tags/blogging/</link>
       <pubDate>Tue, 16 Apr 2019 17:06:20 +0700</pubDate>
       
-      <guid>/tags/blogging/</guid>
+      <guid>http://downandoutput.com/tags/blogging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>/tags/git/</link>
+      <link>http://downandoutput.com/tags/git/</link>
       <pubDate>Tue, 16 Apr 2019 17:06:20 +0700</pubDate>
       
-      <guid>/tags/git/</guid>
+      <guid>http://downandoutput.com/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>/tags/hugo/</link>
+      <link>http://downandoutput.com/tags/hugo/</link>
       <pubDate>Tue, 16 Apr 2019 17:06:20 +0700</pubDate>
       
-      <guid>/tags/hugo/</guid>
+      <guid>http://downandoutput.com/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>terminal</title>
-      <link>/tags/terminal/</link>
+      <link>http://downandoutput.com/tags/terminal/</link>
       <pubDate>Tue, 16 Apr 2019 17:06:20 +0700</pubDate>
       
-      <guid>/tags/terminal/</guid>
+      <guid>http://downandoutput.com/tags/terminal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial</title>
-      <link>/tags/tutorial/</link>
+      <link>http://downandoutput.com/tags/tutorial/</link>
       <pubDate>Tue, 16 Apr 2019 17:06:20 +0700</pubDate>
       
-      <guid>/tags/tutorial/</guid>
+      <guid>http://downandoutput.com/tags/tutorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>101</title>
-      <link>/tags/101/</link>
+      <link>http://downandoutput.com/tags/101/</link>
       <pubDate>Tue, 16 Apr 2019 10:11:56 +0700</pubDate>
       
-      <guid>/tags/101/</guid>
+      <guid>http://downandoutput.com/tags/101/</guid>
       <description></description>
     </item>
     
     <item>
       <title>macOS</title>
-      <link>/tags/macos/</link>
+      <link>http://downandoutput.com/tags/macos/</link>
       <pubDate>Tue, 16 Apr 2019 10:11:56 +0700</pubDate>
       
-      <guid>/tags/macos/</guid>
+      <guid>http://downandoutput.com/tags/macos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emulation</title>
-      <link>/tags/emulation/</link>
+      <link>http://downandoutput.com/tags/emulation/</link>
       <pubDate>Tue, 16 Apr 2019 07:19:01 +0700</pubDate>
       
-      <guid>/tags/emulation/</guid>
+      <guid>http://downandoutput.com/tags/emulation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gaming</title>
-      <link>/tags/gaming/</link>
+      <link>http://downandoutput.com/tags/gaming/</link>
       <pubDate>Tue, 16 Apr 2019 07:19:01 +0700</pubDate>
       
-      <guid>/tags/gaming/</guid>
+      <guid>http://downandoutput.com/tags/gaming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hd</title>
-      <link>/tags/hd/</link>
+      <link>http://downandoutput.com/tags/hd/</link>
       <pubDate>Tue, 16 Apr 2019 07:19:01 +0700</pubDate>
       
-      <guid>/tags/hd/</guid>
+      <guid>http://downandoutput.com/tags/hd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nintendo</title>
-      <link>/tags/nintendo/</link>
+      <link>http://downandoutput.com/tags/nintendo/</link>
       <pubDate>Tue, 16 Apr 2019 07:19:01 +0700</pubDate>
       
-      <guid>/tags/nintendo/</guid>
+      <guid>http://downandoutput.com/tags/nintendo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>retro</title>
-      <link>/tags/retro/</link>
+      <link>http://downandoutput.com/tags/retro/</link>
       <pubDate>Tue, 16 Apr 2019 07:19:01 +0700</pubDate>
       
-      <guid>/tags/retro/</guid>
+      <guid>http://downandoutput.com/tags/retro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>apple</title>
-      <link>/tags/apple/</link>
+      <link>http://downandoutput.com/tags/apple/</link>
       <pubDate>Sun, 14 Apr 2019 11:24:59 +0700</pubDate>
       
-      <guid>/tags/apple/</guid>
+      <guid>http://downandoutput.com/tags/apple/</guid>
       <description></description>
     </item>
     
     <item>
       <title>icons</title>
-      <link>/tags/icons/</link>
+      <link>http://downandoutput.com/tags/icons/</link>
       <pubDate>Sun, 14 Apr 2019 11:24:59 +0700</pubDate>
       
-      <guid>/tags/icons/</guid>
+      <guid>http://downandoutput.com/tags/icons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mac</title>
-      <link>/tags/mac/</link>
+      <link>http://downandoutput.com/tags/mac/</link>
       <pubDate>Sun, 14 Apr 2019 11:24:59 +0700</pubDate>
       
-      <guid>/tags/mac/</guid>
+      <guid>http://downandoutput.com/tags/mac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design</title>
-      <link>/tags/design/</link>
+      <link>http://downandoutput.com/tags/design/</link>
       <pubDate>Fri, 12 Apr 2019 14:49:14 +0700</pubDate>
       
-      <guid>/tags/design/</guid>
+      <guid>http://downandoutput.com/tags/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>software</title>
-      <link>/tags/software/</link>
+      <link>http://downandoutput.com/tags/software/</link>
       <pubDate>Fri, 12 Apr 2019 14:49:14 +0700</pubDate>
       
-      <guid>/tags/software/</guid>
+      <guid>http://downandoutput.com/tags/software/</guid>
       <description></description>
     </item>
     
