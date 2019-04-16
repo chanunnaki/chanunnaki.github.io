@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tutorial on Down &amp; Output</title>
-    <link>/tags/tutorial/</link>
-    <description>Recent content in tutorial on Down &amp; Output</description>
+    <title>terminal on Down &amp; Output</title>
+    <link>/tags/terminal/</link>
+    <description>Recent content in terminal on Down &amp; Output</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Apr 2019 10:11:56 +0700</lastBuildDate>
     
-	<atom:link href="/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>/posts/terminal-tutorial/</guid>
       <description>The Terminal, (AKA CLI, or &amp;ldquo;Command-Line Interface&amp;rdquo;) is super-powerful and allows you to interface directly with the underlying workings of your operating system. It&amp;rsquo;s pretty essential you learn how to use the Terminal if you&amp;rsquo;re going to be developing software as many operations are done exclusively through the Terminal.
 In this post, I&amp;rsquo;ll give you a quick run-down on how to navigate your file system in Terminal. At the end, there is a bonus tip for altering the appearance of your Terminal to make things more efficient for you.</description>
-    </item>
-    
-    <item>
-      <title>⌘ Change macOS Icons</title>
-      <link>/posts/change-mac-icons/</link>
-      <pubDate>Sun, 14 Apr 2019 11:24:59 +0700</pubDate>
-      
-      <guid>/posts/change-mac-icons/</guid>
-      <description>If you ever felt like you&amp;rsquo;d like to customise and change the standard icons of any app, file, or folder on macOS, but you didn&amp;rsquo;t know how, you&amp;rsquo;ve come to the right place. It&amp;rsquo;s actually very easy, and can be done in just a few very simple steps.
-You first need to find and download an icon of your choice. I recommend the site IconArchive, they have many high-quality icons.</description>
     </item>
     
   </channel>

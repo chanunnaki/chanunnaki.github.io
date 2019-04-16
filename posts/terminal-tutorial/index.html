@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-138257631-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-138257631-1');
+</script>
+  
+    <title>⌘ Terminal Navigation :: Down &amp; Output</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="description" content="The Terminal, (AKA CLI, or &amp;ldquo;Command-Line Interface&amp;rdquo;) is super-powerful and allows you to interface directly with the underlying workings of your operating system. It&amp;rsquo;s pretty essential you learn how to use the Terminal if you&amp;rsquo;re going to be developing software as many operations are done exclusively through the Terminal.
+In this post, I&amp;rsquo;ll give you a quick run-down on how to navigate your file system in Terminal. At the end, there is a bonus tip for altering the appearance of your Terminal to make things more efficient for you."/>
+<meta name="keywords" content="apple, tech, retro, gaming, colour, color, design, android, macos, ios, apps, amiga, sony, vr, coding, programming, blogging, vim, atom, python, photography, downandoutput, down and output, down &amp; output"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="/posts/terminal-tutorial/" />
+
+
+<link rel="stylesheet" href="/assets/style.css">
+
+
+<link rel="stylesheet" href="/style.css">
+
+
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/img/apple-touch-icon-144-precomposed.png">
+<link rel="shortcut icon" href="/img/favicon.png">
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="⌘ Terminal Navigation :: Down &amp; Output" />
+<meta name="twitter:description" content="The Terminal, (AKA CLI, or &amp;ldquo;Command-Line Interface&amp;rdquo;) is super-powerful and allows you to interface directly with the underlying workings of your operating system. It&amp;rsquo;s pretty essential you learn how to use the Terminal if you&amp;rsquo;re going to be developing software as many operations are done exclusively through the Terminal.
+In this post, I&amp;rsquo;ll give you a quick run-down on how to navigate your file system in Terminal. At the end, there is a bonus tip for altering the appearance of your Terminal to make things more efficient for you." />
+<meta name="twitter:site" content="/" />
+<meta name="twitter:creator" content="Chanunnaki" />
+<meta name="twitter:image" content="/posts/terminal-tutorial/cover.png">
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="⌘ Terminal Navigation :: Down &amp; Output">
+<meta property="og:description" content="The Terminal, (AKA CLI, or &amp;ldquo;Command-Line Interface&amp;rdquo;) is super-powerful and allows you to interface directly with the underlying workings of your operating system. It&amp;rsquo;s pretty essential you learn how to use the Terminal if you&amp;rsquo;re going to be developing software as many operations are done exclusively through the Terminal.
+In this post, I&amp;rsquo;ll give you a quick run-down on how to navigate your file system in Terminal. At the end, there is a bonus tip for altering the appearance of your Terminal to make things more efficient for you." />
+<meta property="og:url" content="/posts/terminal-tutorial/" />
+<meta property="og:site_name" content="⌘ Terminal Navigation" />
+<meta property="og:image" content="/posts/terminal-tutorial/cover.png">
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+<meta property="article:published_time" content="2019-04-16 10:11:56 &#43;0700 &#43;07" />
+
+
+
+
+
+
+
+
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+</head>
+<body class="dark-theme">
+<div class="container">
+  <header class="header">
+  <span class="header__inner">
+    <a href="/" class="logo" style="text-decoration: none;">
+  
+    <span class="logo__mark"><svg xmlns="http://www.w3.org/2000/svg" class="greater-icon" width="44" height="44" viewBox="0 0 44 44">
+  <polyline fill="none" stroke="#000" stroke-width="200" points="15 8 29.729 22.382 15 35.367"/>
+</svg>
+</span>
+    <span class="logo__text">Down &amp; Output</span>
+    <span class="logo__cursor"></span>
+  
+</a>
+
+    <span class="header__right">
+      
+        <nav class="menu">
+  <ul class="menu__inner menu__inner--desktop">
+    
+      
+        
+          <li><a href="/contact">Contact</a></li>
+        
+      
+      
+    
+  </ul>
+
+  <ul class="menu__inner menu__inner--mobile">
+    
+      
+        <li><a href="/contact">Contact</a></li>
+      
+    
+  </ul>
+</nav>
+
+        <span class="menu-trigger">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M0 0h24v24H0z" fill="none"/>
+            <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+          </svg>
+        </span>
+      
+      <span class="theme-toggle">
+        <svg class="theme-toggler" width="24" height="24" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
+  3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
+  13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z"/>
+</svg>
+
+      </span>
+    </span>
+  </span>
+</header>
+
+
+  <div class="content">
+    
+  <div class="post">
+    <h2 class="post-title"><a href="/posts/terminal-tutorial/">⌘ Terminal Navigation</a></h2>
+    <div class="post-meta">
+      
+        <span class="post-date">
+            16-04-2019
+        </span>
+      
+      <span class="post-author">— by Chanunnaki</span>
+      
+        <span class="post-read-time">— 4 min read</span>
+      
+    </div>
+
+    
+      <span class="post-tags">
+        
+          #<a href="/tags/terminal">terminal</a>&nbsp;
+        
+          #<a href="/tags/tutorial">tutorial</a>&nbsp;
+        
+          #<a href="/tags/macos">macOS</a>&nbsp;
+        
+      </span>
+    
+
+    
+      
+        <img src="/posts/terminal-tutorial/cover.png" class="post-cover" />
+      
+    
+
+    <div class="post-content">
+      
+
+<p>The Terminal, (AKA <code>CLI</code>, or &ldquo;Command-Line Interface&rdquo;) is super-powerful and allows you to interface directly with the underlying workings of your operating system. It&rsquo;s pretty essential you learn how to use the Terminal if you&rsquo;re going to be developing software as many operations are done exclusively through the Terminal.</p>
+
+<p>In this post, I&rsquo;ll give you a quick run-down on how to navigate your file system in Terminal. At the end, there is a bonus tip for altering the appearance of your Terminal to make things more efficient for you.</p>
+
+<h2 id="opening-terminal">Opening Terminal</h2>
+
+<p>You can find Terminal by going to your <code>/Applications/Utilities/</code> directory in <em>Finder</em>.
+
+  <figure class="center" >
+    <img src="./img/terminal_icon.png"  alt="Terminal App Icon"   style="border-radius: 8px; width: 256px"  />
+    
+      <figcaption class="center"  style="color: white;" >Terminal App Icon</figcaption>
+    
+  </figure>
+
+
+Alternatively, you can open it by pressing <code>cmd + space</code> on your keyboard to bring up <em>Spotlight Search</em>, and begin typing <code>terminal</code>. When the application shows, just press <code>enter</code> and up pops the Terminal.</p>
+
+<p>When you open your Terminal, you&rsquo;ll be greeting with a screen similar to this one:
+
+  <figure class="center" >
+    <img src="./img/1.png"  alt="Terminal Window"   style="border-radius: 8px; "  />
+    
+      <figcaption class="center"  style="color: white;" >Terminal Window</figcaption>
+    
+  </figure>
+
+</p>
+
+<h2 id="starting-components-explained">Starting Components Explained</h2>
+
+<p>The first part of input prompt, before the colon, is your computer&rsquo;s name. This can be changed to whatever you want in <code>System Preferences &gt; Sharing</code>.<br />
+
+  <figure class="center" >
+    <img src="./img/1.1.png"  alt="Computer Name"   style="border-radius: 8px; "  />
+    
+      <figcaption class="center"  style="color: white;" >Computer Name</figcaption>
+    
+  </figure>
+
+</p>
+
+<p>The tilde (<code>~</code>) represents your home directory.</p>
+
+
+  <figure class="center" >
+    <img src="./img/1.2.png"  alt="Home Directory"   style="border-radius: 8px; "  />
+    
+      <figcaption class="center"  style="color: white;" >Home Directory</figcaption>
+    
+  </figure>
+
+
+
+<p>And finally, the part before the dollar sign (<code>$</code>) is the name of the user account you&rsquo;re logged in as.
+
+  <figure class="center" >
+    <img src="./img/1.3.png"  alt="User Name"   style="border-radius: 8px; "  />
+    
+      <figcaption class="center"  style="color: white;" >User Name</figcaption>
+    
+  </figure>
+
+</p>
+
+<h2 id="navigating-terminal">Navigating Terminal</h2>
+
+<p>You perform actions in Terminal by inputting a command and pressing <code>enter</code>. Here, I will go through the basics of navigating Terminal with some of the most common commands.</p>
+
+<p>Start by typing <code>ls</code> into Terminal and pressing <code>enter</code>.
+
+  <figure class="center" >
+    <img src="./img/ls.png"  alt="ls command"   style="border-radius: 8px; "  />
+    
+      <figcaption class="center"  style="color: white;" >ls command</figcaption>
+    
+  </figure>
+
+
+<code>ls</code> is the command for &ldquo;listing directory contents&rdquo;. As you are in your home directory, the <code>ls</code> command will show you all the directories inside of your <code>Home</code> directory.</p>
+
+<p>Let&rsquo;s move into one of the folders. You do this with the <code>cd</code> command. Simple type <code>cd</code> and the folders name, like so:
+
+  <figure class="center" >
+    <img src="./img/cd.png"  alt="cd command"   style="border-radius: 8px; "  />
+    
+      <figcaption class="center"  style="color: white;" >cd command</figcaption>
+    
+  </figure>
+
+</p>
+
+<p>As you can see now, instead of being in your <code>Home</code> (<code>~</code>) directory, you&rsquo;re now in your <code>Documents</code> directory.</p>
+
+
+  <figure class="center" >
+    <img src="./img/cd_doc.png"  alt="Documents Directory"   style="border-radius: 8px; "  />
+    
+      <figcaption class="center"  style="color: white;" >Documents Directory</figcaption>
+    
+  </figure>
+
+
+
+<p>If you want to make a new directory inside <code>Documents</code>, you use the <code>mkdir</code>, followed by a space, followed by the name of the new directory you want to create. In this example, we type <code>mkdir blog</code>.</p>
+
+
+  <figure class="center" >
+    <img src="./img/mkdir.png"  alt="mkdir command"   style="border-radius: 8px; "  />
+    
+      <figcaption class="center"  style="color: white;" >mkdir command</figcaption>
+    
+  </figure>
+
+
+
+<p>If you <code>ls</code> now, you see there is a new directory inside of <code>Documents</code></p>
+
+
+  <figure class="center" >
+    <img src="./img/ls_blog.png"  alt="ls command"   style="border-radius: 8px; "  />
+    
+      <figcaption class="center"  style="color: white;" >ls command again</figcaption>
+    
+  </figure>
+
+
+
+<p>If you type <code>pwd</code> now and press <code>enter</code>, you can confirm the full path of where you are inside Terminal. <code>pwd</code> stands for &ldquo;Print Working Directory&rdquo;.</p>
+
+
+  <figure class="center" >
+    <img src="./img/pwd.png"  alt="pwd command"   style="border-radius: 8px; "  />
+    
+      <figcaption class="center"  style="color: white;" >pwd command</figcaption>
+    
+  </figure>
+
+
+
+<p>To delete the <code>blog</code> directory you just created, you type <code>rm -R</code> followed by the name of the directory. Confirm the directory is gone by using the <code>ls</code> command once again.</p>
+
+
+  <figure class="center" >
+    <img src="./img/ls_rm.png"  alt="Empty Directory"   style="border-radius: 8px; "  />
+    
+      <figcaption class="center"  style="color: white;" >Empty Directory</figcaption>
+    
+  </figure>
+
+
+
+<blockquote>
+<p>Be careful when using the <code>rm -R</code> command, as this will delete your directory, plus all of its contents&hellip; <em>for good</em>, without confirmation. There is no &ldquo;Trash Can&rdquo; in Terminal.</p>
+</blockquote>
+
+<p>The <code>-R</code> is what is called an &ldquo;Option&rdquo;, &ldquo;Switch&rdquo; or &ldquo;Argument&rdquo;. Commands usually have many Options avialable. To find out more about any command in Terminal, you can do so by typing <code>man</code> (for <em>Manual</em>), followed by the command. This opens up the manual page for the command, where you can read about all the options.</p>
+
+
+  <figure class="center" >
+    <img src="./img/man.png"  alt="man command"   style="border-radius: 8px; "  />
+    
+      <figcaption class="center"  style="color: white;" >man command</figcaption>
+    
+  </figure>
+
+
+
+<p>Exit the manual by pressing <code>q</code>.</p>
+
+<p>Finally, to move up one directory, just type <code>cd ..</code> and you&rsquo;ll move up a directory. Alternatively, if you want to go back to your <code>Home</code> directory from anywhere, just type <code>cd ~</code>.</p>
+
+
+  <figure class="center" >
+    <img src="./img/cd_up.png"  alt="cd .. command"   style="border-radius: 8px; "  />
+    
+      <figcaption class="center"  style="color: white;" >cd .. command</figcaption>
+    
+  </figure>
+
+
+
+<p>This concludes the basic Terminal Navigation tutorial. Following is a bonus tip I promised you&hellip;</p>
+
+<h2 id="bonus-terminal-tip">Bonus Terminal Tip</h2>
+
+<p>Normally when you use Terminal, you&rsquo;re presented with this screen, as you saw from the baginning of this tutorial.
+
+  <figure class="center" >
+    <img src="./img/1.png"  alt="Terminal Window"   style="border-radius: 8px; "  />
+    
+      <figcaption class="center"  style="color: white;" >Terminal Window</figcaption>
+    
+  </figure>
+
+</p>
+
+<p>This contains unnecessary information when using Terminal on a daily basis, so with a very simple command, you can hide the computer name and username in your Terminal. Producing this instead:
+
+  <figure class="center" >
+    <img src="./img/2.png"  alt="Minimal Terminal"   style="border-radius: 8px; "  />
+    
+      <figcaption class="center"  style="color: white;" >Minimal Terminal</figcaption>
+    
+  </figure>
+
+</p>
+
+<p>I think you&rsquo;d agree, this makes things a lot more tidy for you and removes additional clutter and distraction &ndash; <strong><em>Minimalist</em></strong>.</p>
+
+<p>To accomplish this, simply type (or copy &amp; paste) this command into Terminal and press <code>enter</code>. After this, open a new Terminal window by pressing <code>cmd + n</code> to see your new Terminal prompt.</p>
+
+<pre><code class="language-text">echo &quot;export PS1='\W \$ '&quot; &gt;&gt; ~/.bash_profile
+</code></pre>
+
+<p>What this commands does is it appends the line <code>export PS1'\W \$'</code> into a hidden system file in your <code>Home</code> directory called <code>.bash_profile</code>. This file controls what is presented to you when you open a new Terminal window.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>This is only barely touching the surface of what can be accomplished in Terminal. As I said before, getting familiar with the Terminal is essential if you&rsquo;re interesting in going deeper into what is possible with your computer. In other words&hellip; becoming a <em>Power User</em>.  I hope this tutorial can help you in making those first steps.</p>
+
+    </div>
+    
+      <div class="pagination">
+        <div class="pagination__title">
+          <span class="pagination__title-h">more</span>
+          <hr />
+        </div>
+        <div class="pagination__buttons">
+          
+          
+            <span class="button next">
+              <a href="/posts/snes-hd/">
+                <span class="button__text">🎮 SNES HD</span>
+                <span class="button__icon">→</span>
+              </a>
+            </span>
+          
+        </div>
+      </div>
+    
+
+    
+
+    </div>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <a href="/" class="logo" style="text-decoration: none;">
+  
+    <span class="logo__mark"><svg xmlns="http://www.w3.org/2000/svg" class="greater-icon" width="44" height="44" viewBox="0 0 44 44">
+  <polyline fill="none" stroke="#000" stroke-width="200" points="15 8 29.729 22.382 15 35.367"/>
+</svg>
+</span>
+    <span class="logo__text">Down &amp; Output</span>
+    <span class="logo__cursor"></span>
+  
+</a>
+
+      <div class="copyright">
+        <span>Copyright © 2019 Down & Output</span>
+      </div>
+    
+  </div>
+</footer>
+
+<script src="/assets/main.js"></script>
+<script src="/assets/prism.js"></script>
+
+
+  
+</div>
+
+</body>
+</html>

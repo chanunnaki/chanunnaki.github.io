@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Down &amp; Output</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Apr 2019 07:19:01 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2019 10:11:56 +0700</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>macOS</title>
+      <link>/tags/macos/</link>
+      <pubDate>Tue, 16 Apr 2019 10:11:56 +0700</pubDate>
+      
+      <guid>/tags/macos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terminal</title>
+      <link>/tags/terminal/</link>
+      <pubDate>Tue, 16 Apr 2019 10:11:56 +0700</pubDate>
+      
+      <guid>/tags/terminal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>/tags/tutorial/</link>
+      <pubDate>Tue, 16 Apr 2019 10:11:56 +0700</pubDate>
+      
+      <guid>/tags/tutorial/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>emulation</title>
@@ -80,15 +107,6 @@
       <pubDate>Sun, 14 Apr 2019 11:24:59 +0700</pubDate>
       
       <guid>/tags/mac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tutorial</title>
-      <link>/tags/tutorial/</link>
-      <pubDate>Sun, 14 Apr 2019 11:24:59 +0700</pubDate>
-      
-      <guid>/tags/tutorial/</guid>
       <description></description>
     </item>
     
