@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tutorial on Down &amp; Output</title>
-    <link>http://downandoutput.com/tags/tutorial/</link>
+    <link>https://downandoutput.com/tags/tutorial/</link>
     <description>Recent content in tutorial on Down &amp; Output</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Apr 2019 17:06:20 +0700</lastBuildDate>
     
-	<atom:link href="http://downandoutput.com/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://downandoutput.com/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>http://downandoutput.com/posts/hugo-tut-one/</link>
+      <link>https://downandoutput.com/posts/hugo-tut-one/</link>
       <pubDate>Tue, 16 Apr 2019 17:06:20 +0700</pubDate>
       
-      <guid>http://downandoutput.com/posts/hugo-tut-one/</guid>
+      <guid>https://downandoutput.com/posts/hugo-tut-one/</guid>
       <description>In the first part of this three-part series, I&amp;rsquo;ll guide you in setting up a simple blog like the one you&amp;rsquo;re on right now, and show you how to host it for free on Github Pages. When I began on this journey myself, I had close to zero experience with Github. I followed some of the available guides already out there on the web, (including those from Hugo themselves), but there were some parts that didn’t quite click with me right away and it relied upon a lot of time and trial &amp;amp; error before it all finally worked.</description>
     </item>
     
     <item>
       <title>⌘ Terminal Navigation 101</title>
-      <link>http://downandoutput.com/posts/terminal-tutorial/</link>
+      <link>https://downandoutput.com/posts/terminal-tutorial/</link>
       <pubDate>Tue, 16 Apr 2019 10:11:56 +0700</pubDate>
       
-      <guid>http://downandoutput.com/posts/terminal-tutorial/</guid>
+      <guid>https://downandoutput.com/posts/terminal-tutorial/</guid>
       <description>The Terminal, (AKA CLI, or &amp;ldquo;Command-Line Interface&amp;rdquo;) is super-powerful and allows you to interface directly with the underlying workings of your operating system. It&amp;rsquo;s pretty essential you learn how to use the Terminal if you&amp;rsquo;re going to be developing software or doing any more advanced operations within your operating system as many operations are done exclusively through the Terminal.
 In this post, I&amp;rsquo;ll give you a quick run-down on how to navigate your file system in Terminal.</description>
     </item>
     
     <item>
       <title>⌘ Change macOS Icons</title>
-      <link>http://downandoutput.com/posts/change-mac-icons/</link>
+      <link>https://downandoutput.com/posts/change-mac-icons/</link>
       <pubDate>Sun, 14 Apr 2019 11:24:59 +0700</pubDate>
       
-      <guid>http://downandoutput.com/posts/change-mac-icons/</guid>
+      <guid>https://downandoutput.com/posts/change-mac-icons/</guid>
       <description>If you ever felt like you&amp;rsquo;d like to customise and change the standard icons of any app, file, or folder on macOS, but you didn&amp;rsquo;t know how, you&amp;rsquo;ve come to the right place. It&amp;rsquo;s actually very easy, and can be done in just a few very simple steps.
 You first need to find and download an icon of your choice. I recommend the site IconArchive, they have many high-quality icons.</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>icons on Down &amp; Output</title>
-    <link>http://downandoutput.com/tags/icons/</link>
+    <link>https://downandoutput.com/tags/icons/</link>
     <description>Recent content in icons on Down &amp; Output</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Apr 2019 11:24:59 +0700</lastBuildDate>
     
-	<atom:link href="http://downandoutput.com/tags/icons/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://downandoutput.com/tags/icons/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>⌘ Change macOS Icons</title>
-      <link>http://downandoutput.com/posts/change-mac-icons/</link>
+      <link>https://downandoutput.com/posts/change-mac-icons/</link>
       <pubDate>Sun, 14 Apr 2019 11:24:59 +0700</pubDate>
       
-      <guid>http://downandoutput.com/posts/change-mac-icons/</guid>
+      <guid>https://downandoutput.com/posts/change-mac-icons/</guid>
       <description>If you ever felt like you&amp;rsquo;d like to customise and change the standard icons of any app, file, or folder on macOS, but you didn&amp;rsquo;t know how, you&amp;rsquo;ve come to the right place. It&amp;rsquo;s actually very easy, and can be done in just a few very simple steps.
 You first need to find and download an icon of your choice. I recommend the site IconArchive, they have many high-quality icons.</description>
     </item>
