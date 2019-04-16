@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hd on Down &amp; Output</title>
+    <link>/tags/hd/</link>
+    <description>Recent content in hd on Down &amp; Output</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Apr 2019 07:19:01 +0700</lastBuildDate>
+    
+	<atom:link href="/tags/hd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SNES in HD</title>
+      <link>/posts/snes-hd/</link>
+      <pubDate>Tue, 16 Apr 2019 07:19:01 +0700</pubDate>
+      
+      <guid>/posts/snes-hd/</guid>
+      <description>A user going by the &amp;ldquo;DerKoun&amp;rdquo; has submitted a post on the /r/emulation subreddit about a mod to popular cycle-accurate Super Nintendo emulator - BSNES - which makes it possible to increase the resolution of Mode 7 graphics by 4X. essentially turning classic SNES games into HD.
+Mode 7 is the Super Nintendo&amp;rsquo;s built-in hardware-accelerated mathematical functions which for rotating and scaling sprites on the screen.
+Here is a before &amp;amp; after example of Mario Kart:</description>
+    </item>
+    
+  </channel>
+</rss>
