@@ -7,10 +7,22 @@
     <language>en-us</language>
     <managingEditor>chanunnaki@gmail.com (Chanunnaki)</managingEditor>
     <webMaster>chanunnaki@gmail.com (Chanunnaki)</webMaster>
-    <lastBuildDate>Tue, 16 Apr 2019 21:36:18 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2019 19:09:44 +0700</lastBuildDate>
     
         <atom:link href="https://downandoutput.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>🤖 LineageOS for Nvidia Shield Tablet K1</title>
+      <link>https://downandoutput.com/posts/lineageos-k1-update/</link>
+      <pubDate>Wed, 17 Apr 2019 19:09:44 +0700</pubDate>
+      <author>chanunnaki@gmail.com (Chanunnaki)</author>
+      <guid>https://downandoutput.com/posts/lineageos-k1-update/</guid>
+      <description>Wow, this one caught me by complete surprise. LineageOS &amp;ndash; an alternative free and open-source operating system for mobile devices &amp;ndash; have just officially released version 15.1 of their OS for the NVidia Shield Tablet K1.
+LineageOS is a fork of the once-popular CyanogenMod and version 15.1 of the OS is based on Android 8.1 (Oreo)
+Nvidia Shield Tablet K1  The Shield K1 is &amp;ndash; in my opinion &amp;ndash; one of the best Android tablets available.</description>
+
+    </item>
     
     <item>
       <title>🎮 The Future of Playstation</title>
