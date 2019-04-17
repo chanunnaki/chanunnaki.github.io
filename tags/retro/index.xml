@@ -18,38 +18,8 @@
       <pubDate>Tue, 16 Apr 2019 07:19:01 +0700</pubDate>
       <author>chanunnaki@gmail.com (Chanunnaki)</author>
       <guid>https://downandoutput.com/posts/snes-hd/</guid>
-      <description>&lt;p&gt;A user going by the name &amp;ldquo;DerKoun&amp;rdquo; has submitted a post on the &lt;a href=&#34;https://www.reddit.com/r/emulation/comments/bdltmo/hd_mode_7_mod_for_bsnes_v1071_beta_1/&#34;&gt;/r/emulation subreddit&lt;/a&gt; about a mod to popular cycle-accurate Super Nintendo emulator - &lt;a href=&#34;https://bsnes.byuu.org&#34;&gt;BSNES&lt;/a&gt; - which makes it possible to increase the resolution of Mode 7 graphics by 4X. essentially turning classic SNES games into HD.&lt;/p&gt;
-
-&lt;p&gt;Mode 7 is the Super Nintendo&amp;rsquo;s built-in hardware-accelerated mathematical functions which allows for efficient rotation and scaling of sprites on the screen.&lt;/p&gt;
-
-&lt;p&gt;Here is a before &amp;amp; after example of Mario Kart:&lt;/p&gt;
-
-
-  &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;img/1.png&#34;  alt=&#34;Super Mario Kart Original&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
-    
-      &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Super Mario Kart Original&lt;/figcaption&gt;
-    
-  &lt;/figure&gt;
-
-
-
-
-  &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;img/2.png&#34;  alt=&#34;Super Mario Kart Original&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
-    
-      &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Super Mario Kart HD&lt;/figcaption&gt;
-    
-  &lt;/figure&gt;
-
-
-
-&lt;p&gt;A few further comparisons can be found &lt;a href=&#34;http://www.framecompare.com/image-compare/screenshotcomparison/EB9MNNNU&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;You can find a very clear and succinct explanation about this new technique by user &amp;ldquo;Krejlooc&amp;rdquo; over on &lt;a href=&#34;https://www.resetera.com&#34;&gt;ResetEra&lt;/a&gt;, &lt;a href=&#34;https://www.resetera.com/threads/bsnes-emulator-mod-allows-for-hd-rendering-of-mode7-games.111715/post-19876078&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Unfortunately, this mod is currently only available for the Windows branch of BSNES, but it&amp;rsquo;s likely we will see port to macOS, Linux and other systems in short order.&lt;/p&gt;
-</description>
+      <description>A user going by the name &amp;ldquo;DerKoun&amp;rdquo; has submitted a post on the /r/emulation subreddit about a mod to popular cycle-accurate Super Nintendo emulator - BSNES - which makes it possible to increase the resolution of Mode 7 graphics by 4X. essentially turning classic SNES games into HD.
+Mode 7 is the Super Nintendo&amp;rsquo;s built-in hardware-accelerated mathematical functions which allows for efficient rotation and scaling of sprites on the screen.</description>
 
     </item>
     
