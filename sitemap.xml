@@ -165,6 +165,29 @@
   </url>
   
   <url>
+    <loc>https://downandoutput.com/tags/123/</loc>
+    <lastmod>2019-04-10T12:02:21+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://downandoutput.com/posts/test/</loc>
+    <lastmod>2019-04-10T12:02:21+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://downandoutput.com/tags/test/</loc>
+    <lastmod>2019-04-10T12:02:21+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://downandoutput.com/tags/testing/</loc>
+    <lastmod>2019-04-10T12:02:21+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://downandoutput.com/categories/</loc>
     <priority>0</priority>
   </url>
