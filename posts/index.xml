@@ -150,7 +150,15 @@
 
 &lt;p&gt;For this tutorial, we&amp;rsquo;ll use the &lt;a href=&#34;https://themes.gohugo.io/hermit/&#34;&gt;Hermit&lt;/a&gt; theme.&lt;/p&gt;
 
-&lt;p&gt;{{ &amp;lt; figure src=&amp;ldquo;img/hugo_theme.png&amp;rdquo; alt=&amp;ldquo;Hermit Theme&amp;rdquo; position=&amp;ldquo;center&amp;rdquo; style=&amp;ldquo;border-radius: 8px; &amp;ldquo; caption=&amp;ldquo;Hermit Theme&amp;rdquo; captionPosition=&amp;ldquo;center&amp;rdquo; captionStyle=&amp;ldquo;color: white;&amp;rdquo; &amp;gt; }}&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;img/hugo_theme.png&#34;  alt=&#34;Hermit Theme&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    
+      &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Hermit Theme&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
 
 &lt;p&gt;The URL from the &lt;code&gt;Download&lt;/code&gt; button is:&lt;/p&gt;
 
