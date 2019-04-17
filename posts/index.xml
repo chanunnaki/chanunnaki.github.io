@@ -5,8 +5,8 @@
     <description>Recent content on Down &amp; Output</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>chanunnaki@gmail.com (Chaunnaki)</managingEditor>
-    <webMaster>chanunnaki@gmail.com (Chaunnaki)</webMaster>
+    <managingEditor>chanunnaki@gmail.com (Chanunnaki)</managingEditor>
+    <webMaster>chanunnaki@gmail.com (Chanunnaki)</webMaster>
     <lastBuildDate>Tue, 16 Apr 2019 21:36:18 +0700</lastBuildDate>
     
         <atom:link href="https://downandoutput.com/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +16,7 @@
       <title>🎮 The Future of Playstation</title>
       <link>https://downandoutput.com/posts/playstation-future/</link>
       <pubDate>Tue, 16 Apr 2019 21:36:18 +0700</pubDate>
-      <author>chanunnaki@gmail.com (Chaunnaki)</author>
+      <author>chanunnaki@gmail.com (Chanunnaki)</author>
       <guid>https://downandoutput.com/posts/playstation-future/</guid>
       <description>&lt;p&gt;Wired have just published an &lt;a href=&#34;https://www.wired.com/story/exclusive-sony-next-gen-console/&#34;&gt;article&lt;/a&gt; with comments from Playstation lead system architect Mark Cerny.&lt;/p&gt;
 
@@ -53,7 +53,7 @@
       <title>⌨︎ Getting Started with Hugo</title>
       <link>https://downandoutput.com/posts/hugo-tut-one/</link>
       <pubDate>Tue, 16 Apr 2019 17:06:20 +0700</pubDate>
-      <author>chanunnaki@gmail.com (Chaunnaki)</author>
+      <author>chanunnaki@gmail.com (Chanunnaki)</author>
       <guid>https://downandoutput.com/posts/hugo-tut-one/</guid>
       <description>
 
@@ -91,7 +91,7 @@
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/1.png&#34;  alt=&#34;Terminal Window&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    &lt;img src=&#34;img/1.png&#34;  alt=&#34;Terminal Window&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Terminal Window&lt;/figcaption&gt;
     
@@ -132,7 +132,7 @@
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/2.png&#34;  alt=&#34;New Site Folder&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    &lt;img src=&#34;img/2.png&#34;  alt=&#34;New Site Folder&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;New Site Folder&lt;/figcaption&gt;
     
@@ -150,7 +150,7 @@
 
 &lt;p&gt;For this tutorial, we&amp;rsquo;ll use the &lt;a href=&#34;https://themes.gohugo.io/hermit/&#34;&gt;Hermit&lt;/a&gt; theme.&lt;/p&gt;
 
-&lt;p&gt;{{ &amp;lt; figure src=&amp;ldquo;./img/hugo_theme.png&amp;rdquo; alt=&amp;ldquo;Hermit Theme&amp;rdquo; position=&amp;ldquo;center&amp;rdquo; style=&amp;ldquo;border-radius: 8px; &amp;ldquo; caption=&amp;ldquo;Hermit Theme&amp;rdquo; captionPosition=&amp;ldquo;center&amp;rdquo; captionStyle=&amp;ldquo;color: white;&amp;rdquo; &amp;gt; }}&lt;/p&gt;
+&lt;p&gt;{{ &amp;lt; figure src=&amp;ldquo;img/hugo_theme.png&amp;rdquo; alt=&amp;ldquo;Hermit Theme&amp;rdquo; position=&amp;ldquo;center&amp;rdquo; style=&amp;ldquo;border-radius: 8px; &amp;ldquo; caption=&amp;ldquo;Hermit Theme&amp;rdquo; captionPosition=&amp;ldquo;center&amp;rdquo; captionStyle=&amp;ldquo;color: white;&amp;rdquo; &amp;gt; }}&lt;/p&gt;
 
 &lt;p&gt;The URL from the &lt;code&gt;Download&lt;/code&gt; button is:&lt;/p&gt;
 
@@ -244,7 +244,7 @@ All the custom content you create for your site will reside in this &lt;code&gt;
       <title>⌘ Terminal Navigation 101</title>
       <link>https://downandoutput.com/posts/terminal-tutorial/</link>
       <pubDate>Tue, 16 Apr 2019 10:11:56 +0700</pubDate>
-      <author>chanunnaki@gmail.com (Chaunnaki)</author>
+      <author>chanunnaki@gmail.com (Chanunnaki)</author>
       <guid>https://downandoutput.com/posts/terminal-tutorial/</guid>
       <description>
 
@@ -257,7 +257,7 @@ All the custom content you create for your site will reside in this &lt;code&gt;
 &lt;p&gt;You can find Terminal by going to your &lt;code&gt;/Applications/Utilities/&lt;/code&gt; directory in &lt;em&gt;Finder&lt;/em&gt;.
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/terminal_icon.png&#34;  alt=&#34;Terminal App Icon&#34;   style=&#34;border-radius: 8px; width: 256px&#34;  /&gt;
+    &lt;img src=&#34;img/terminal_icon.png&#34;  alt=&#34;Terminal App Icon&#34;   style=&#34;border-radius: 8px; width: 256px&#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Terminal App Icon&lt;/figcaption&gt;
     
@@ -269,7 +269,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 &lt;p&gt;When you open your Terminal, you&amp;rsquo;ll be greeting with a screen similar to this one:
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/1.png&#34;  alt=&#34;Terminal Window&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    &lt;img src=&#34;img/1.png&#34;  alt=&#34;Terminal Window&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Terminal Window&lt;/figcaption&gt;
     
@@ -282,7 +282,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 &lt;p&gt;The first part of input prompt, before the colon, is your computer&amp;rsquo;s name. This can be changed to whatever you want in &lt;code&gt;System Preferences &amp;gt; Sharing&lt;/code&gt;.&lt;br /&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/1.1.png&#34;  alt=&#34;Computer Name&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    &lt;img src=&#34;img/1.1.png&#34;  alt=&#34;Computer Name&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Computer Name&lt;/figcaption&gt;
     
@@ -294,7 +294,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/1.2.png&#34;  alt=&#34;Home Directory&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    &lt;img src=&#34;img/1.2.png&#34;  alt=&#34;Home Directory&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Home Directory&lt;/figcaption&gt;
     
@@ -305,7 +305,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 &lt;p&gt;And finally, the part before the dollar sign (&lt;code&gt;$&lt;/code&gt;) is the name of the user account you&amp;rsquo;re logged in as.
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/1.3.png&#34;  alt=&#34;User Name&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    &lt;img src=&#34;img/1.3.png&#34;  alt=&#34;User Name&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;User Name&lt;/figcaption&gt;
     
@@ -320,7 +320,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 &lt;p&gt;Start by typing &lt;code&gt;ls&lt;/code&gt; into Terminal and pressing &lt;code&gt;enter&lt;/code&gt;.
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/ls.png&#34;  alt=&#34;ls command&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    &lt;img src=&#34;img/ls.png&#34;  alt=&#34;ls command&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;ls command&lt;/figcaption&gt;
     
@@ -332,7 +332,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 &lt;p&gt;Let&amp;rsquo;s move into one of the folders. You do this with the &lt;code&gt;cd&lt;/code&gt; command. Simple type &lt;code&gt;cd&lt;/code&gt; and the folders name, like so:
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/cd.png&#34;  alt=&#34;cd command&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    &lt;img src=&#34;img/cd.png&#34;  alt=&#34;cd command&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;cd command&lt;/figcaption&gt;
     
@@ -348,7 +348,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/cd_doc.png&#34;  alt=&#34;Documents Directory&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    &lt;img src=&#34;img/cd_doc.png&#34;  alt=&#34;Documents Directory&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Documents Directory&lt;/figcaption&gt;
     
@@ -360,7 +360,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/mkdir.png&#34;  alt=&#34;mkdir command&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    &lt;img src=&#34;img/mkdir.png&#34;  alt=&#34;mkdir command&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;mkdir command&lt;/figcaption&gt;
     
@@ -372,7 +372,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/ls_blog.png&#34;  alt=&#34;ls command&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    &lt;img src=&#34;img/ls_blog.png&#34;  alt=&#34;ls command&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;ls command again&lt;/figcaption&gt;
     
@@ -384,7 +384,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/pwd.png&#34;  alt=&#34;pwd command&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    &lt;img src=&#34;img/pwd.png&#34;  alt=&#34;pwd command&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;pwd command&lt;/figcaption&gt;
     
@@ -396,7 +396,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/ls_rm.png&#34;  alt=&#34;Empty Directory&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    &lt;img src=&#34;img/ls_rm.png&#34;  alt=&#34;Empty Directory&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Empty Directory&lt;/figcaption&gt;
     
@@ -412,7 +412,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/man.png&#34;  alt=&#34;man command&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    &lt;img src=&#34;img/man.png&#34;  alt=&#34;man command&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;man command&lt;/figcaption&gt;
     
@@ -426,7 +426,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/cd_up.png&#34;  alt=&#34;cd .. command&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    &lt;img src=&#34;img/cd_up.png&#34;  alt=&#34;cd .. command&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;cd .. command&lt;/figcaption&gt;
     
@@ -441,7 +441,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 &lt;p&gt;Normally when you use Terminal, you&amp;rsquo;re presented with this screen, as you saw from the beginning of this tutorial.
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/1.png&#34;  alt=&#34;Terminal Window&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    &lt;img src=&#34;img/1.png&#34;  alt=&#34;Terminal Window&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Terminal Window&lt;/figcaption&gt;
     
@@ -452,7 +452,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 &lt;p&gt;This contains unnecessary information when using Terminal on a daily basis, so with a very simple command, you can hide the computer name and username in your Terminal. Producing this instead:
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/2.png&#34;  alt=&#34;Minimal Terminal&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    &lt;img src=&#34;img/2.png&#34;  alt=&#34;Minimal Terminal&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Minimal Terminal&lt;/figcaption&gt;
     
@@ -480,7 +480,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
       <title>🎮 SNES HD</title>
       <link>https://downandoutput.com/posts/snes-hd/</link>
       <pubDate>Tue, 16 Apr 2019 07:19:01 +0700</pubDate>
-      <author>chanunnaki@gmail.com (Chaunnaki)</author>
+      <author>chanunnaki@gmail.com (Chanunnaki)</author>
       <guid>https://downandoutput.com/posts/snes-hd/</guid>
       <description>&lt;p&gt;A user going by the name &amp;ldquo;DerKoun&amp;rdquo; has submitted a post on the &lt;a href=&#34;https://www.reddit.com/r/emulation/comments/bdltmo/hd_mode_7_mod_for_bsnes_v1071_beta_1/&#34;&gt;/r/emulation subreddit&lt;/a&gt; about a mod to popular cycle-accurate Super Nintendo emulator - &lt;a href=&#34;https://bsnes.byuu.org&#34;&gt;BSNES&lt;/a&gt; - which makes it possible to increase the resolution of Mode 7 graphics by 4X. essentially turning classic SNES games into HD.&lt;/p&gt;
 
@@ -490,7 +490,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/1.png&#34;  alt=&#34;Super Mario Kart Original&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    &lt;img src=&#34;img/1.png&#34;  alt=&#34;Super Mario Kart Original&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Super Mario Kart Original&lt;/figcaption&gt;
     
@@ -500,7 +500,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/2.png&#34;  alt=&#34;Super Mario Kart Original&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    &lt;img src=&#34;img/2.png&#34;  alt=&#34;Super Mario Kart Original&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Super Mario Kart HD&lt;/figcaption&gt;
     
@@ -521,7 +521,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
       <title>⌘ Change macOS Icons</title>
       <link>https://downandoutput.com/posts/change-mac-icons/</link>
       <pubDate>Sun, 14 Apr 2019 11:24:59 +0700</pubDate>
-      <author>chanunnaki@gmail.com (Chaunnaki)</author>
+      <author>chanunnaki@gmail.com (Chanunnaki)</author>
       <guid>https://downandoutput.com/posts/change-mac-icons/</guid>
       <description>
 
@@ -539,7 +539,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/1.png&#34;  alt=&#34;Default Macintosh HD Icon&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    &lt;img src=&#34;img/1.png&#34;  alt=&#34;Default Macintosh HD Icon&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Default Macintosh HD Icon&lt;/figcaption&gt;
     
@@ -551,7 +551,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/drive.png&#34;  alt=&#34;New Drive Icon&#34;   style=&#34;border-radius: 8px; width: 256px;&#34;  /&gt;
+    &lt;img src=&#34;img/drive.png&#34;  alt=&#34;New Drive Icon&#34;   style=&#34;border-radius: 8px; width: 256px;&#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;New Drive Icon&lt;/figcaption&gt;
     
@@ -563,7 +563,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/2.png&#34;  alt=&#34;Highlight HD&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
+    &lt;img src=&#34;img/2.png&#34;  alt=&#34;Highlight HD&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Select the HD&lt;/figcaption&gt;
     
@@ -575,7 +575,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/3.png&#34;  alt=&#34;Info Panel&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
+    &lt;img src=&#34;img/3.png&#34;  alt=&#34;Info Panel&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Info Panel&lt;/figcaption&gt;
     
@@ -587,7 +587,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/video.gif&#34;  alt=&#34;Drag and Drop New Icon Over Old&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    &lt;img src=&#34;img/video.gif&#34;  alt=&#34;Drag and Drop New Icon Over Old&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Drag and Drop New Icon Over Old&lt;/figcaption&gt;
     
@@ -599,7 +599,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/4.png&#34;  alt=&#34;New Icon&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
+    &lt;img src=&#34;img/4.png&#34;  alt=&#34;New Icon&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;New Icon&lt;/figcaption&gt;
     
@@ -615,7 +615,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/video2.gif&#34;  alt=&#34;Highlight and Delete&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    &lt;img src=&#34;img/video2.gif&#34;  alt=&#34;Highlight and Delete&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Highlight and Delete&lt;/figcaption&gt;
     
@@ -632,7 +632,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
       <title>⌘ macOS Color Pickers</title>
       <link>https://downandoutput.com/posts/mac-color-pickers/</link>
       <pubDate>Fri, 12 Apr 2019 14:49:14 +0700</pubDate>
-      <author>chanunnaki@gmail.com (Chaunnaki)</author>
+      <author>chanunnaki@gmail.com (Chanunnaki)</author>
       <guid>https://downandoutput.com/posts/mac-color-pickers/</guid>
       <description>
 
@@ -697,7 +697,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/sip_icon.png&#34;  alt=&#34;Sip App Icon&#34;   style=&#34;border-radius: 8px; width: 256px;&#34;  /&gt;
+    &lt;img src=&#34;img/sip_icon.png&#34;  alt=&#34;Sip App Icon&#34;   style=&#34;border-radius: 8px; width: 256px;&#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Sip App Icon&lt;/figcaption&gt;
     
@@ -709,7 +709,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/1.png&#34;  alt=&#34;Check Contrast in Sip&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
+    &lt;img src=&#34;img/1.png&#34;  alt=&#34;Check Contrast in Sip&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Check Contrast in Sip&lt;/figcaption&gt;
     
@@ -721,7 +721,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/1.1.png&#34;  alt=&#34;Sip Magnifier and Color Name&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
+    &lt;img src=&#34;img/1.1.png&#34;  alt=&#34;Sip Magnifier and Color Name&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Sip Magnifier and Color Name&lt;/figcaption&gt;
     
@@ -733,7 +733,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/aqua_icon.png&#34;  alt=&#34;Aquarelo App Icon&#34;   style=&#34;border-radius: 8px;  width: 256px;&#34;  /&gt;
+    &lt;img src=&#34;img/aqua_icon.png&#34;  alt=&#34;Aquarelo App Icon&#34;   style=&#34;border-radius: 8px;  width: 256px;&#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Aquarelo App Icon&lt;/figcaption&gt;
     
@@ -745,7 +745,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/2.png&#34;  alt=&#34;Aquarelo UI&#34;   style=&#34;border-radius: 8px; border-style: solid; border-width: 8px; border-color : #191926; background-color: #191926;&#34;  /&gt;
+    &lt;img src=&#34;img/2.png&#34;  alt=&#34;Aquarelo UI&#34;   style=&#34;border-radius: 8px; border-style: solid; border-width: 8px; border-color : #191926; background-color: #191926;&#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Aquarelo UI&lt;/figcaption&gt;
     
@@ -757,7 +757,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/2.1.png&#34;  alt=&#34;Aquarelo Pantone-esque&#34;   style=&#34;border-radius: 8px; border-style: solid; border-width: 8px; border-color : #191926; background-color: #191926;&#34;  /&gt;
+    &lt;img src=&#34;img/2.1.png&#34;  alt=&#34;Aquarelo Pantone-esque&#34;   style=&#34;border-radius: 8px; border-style: solid; border-width: 8px; border-color : #191926; background-color: #191926;&#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Aquarelo Pantone-esque&lt;/figcaption&gt;
     
@@ -781,7 +781,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/3.png&#34;  alt=&#34;Apple&amp;#39;s Color Picker&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
+    &lt;img src=&#34;img/3.png&#34;  alt=&#34;Apple&amp;#39;s Color Picker&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Apple&amp;#39;s Standard Color Picker&lt;/figcaption&gt;
     
@@ -793,7 +793,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/4.png&#34;  alt=&#34;Skala Color UI&#34;   style=&#34;border-radius: 8px; border-style: solid; border-width: 8px; border-color : #191926; background-color: #191926;&#34;  /&gt;
+    &lt;img src=&#34;img/4.png&#34;  alt=&#34;Skala Color UI&#34;   style=&#34;border-radius: 8px; border-style: solid; border-width: 8px; border-color : #191926; background-color: #191926;&#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Skala Color UI&lt;/figcaption&gt;
     
@@ -805,7 +805,7 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/5.png&#34;  alt=&#34;Skala Color Export Options&#34;   style=&#34;border-radius: 8px; border-style: solid; border-width: 8px; border-color : #191926; background-color: #191926;&#34;  /&gt;
+    &lt;img src=&#34;img/5.png&#34;  alt=&#34;Skala Color Export Options&#34;   style=&#34;border-radius: 8px; border-style: solid; border-width: 8px; border-color : #191926; background-color: #191926;&#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Skala Color Export Options&lt;/figcaption&gt;
     
@@ -818,7 +818,7 @@ I must say, Apple Color Picker with the Skala Color extension is really a fantas
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/6.png&#34;  alt=&#34;Practically Limitless&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
+    &lt;img src=&#34;img/6.png&#34;  alt=&#34;Practically Limitless&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Practically Limitless&lt;/figcaption&gt;
     
@@ -830,7 +830,7 @@ I must say, Apple Color Picker with the Skala Color extension is really a fantas
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/6.1.png&#34;  alt=&#34;Custom Palette&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
+    &lt;img src=&#34;img/6.1.png&#34;  alt=&#34;Custom Palette&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Custom Palette&lt;/figcaption&gt;
     
@@ -843,7 +843,7 @@ I must say, Apple Color Picker with the Skala Color extension is really a fantas
 &lt;p&gt;I&amp;rsquo;ve got a complete set of Pantone Swatches in mine.
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/6.2.png&#34;  alt=&#34;Pantone Swatches&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
+    &lt;img src=&#34;img/6.2.png&#34;  alt=&#34;Pantone Swatches&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Pantone Swatches&lt;/figcaption&gt;
     
@@ -870,7 +870,7 @@ Colours.app [750KB] &lt;a href=&#34;./files/Colours.zip&#34;&gt;DOWNLOAD&lt;/a&g
 &lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;./img/7.png&#34;  alt=&#34;Colors or Colours, Pick Your Poison&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
+    &lt;img src=&#34;img/7.png&#34;  alt=&#34;Colors or Colours, Pick Your Poison&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Colors or Colours, Pick Your Poison&lt;/figcaption&gt;
     

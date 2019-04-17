@@ -1,27 +1,128 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>icons on Down &amp; Output</title>
+    <title>Down &amp; Output</title>
     <link>https://downandoutput.com/tags/icons/</link>
-    <description>Recent content in icons on Down &amp; Output</description>
+    <description>Recent content on Down &amp; Output</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>chanunnaki@gmail.com (Chaunnaki)</managingEditor>
-    <webMaster>chanunnaki@gmail.com (Chaunnaki)</webMaster>
+    <managingEditor>chanunnaki@gmail.com (Chanunnaki)</managingEditor>
+    <webMaster>chanunnaki@gmail.com (Chanunnaki)</webMaster>
     <lastBuildDate>Sun, 14 Apr 2019 11:24:59 +0700</lastBuildDate>
     
-	<atom:link href="https://downandoutput.com/tags/icons/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://downandoutput.com/tags/icons/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>⌘ Change macOS Icons</title>
       <link>https://downandoutput.com/posts/change-mac-icons/</link>
       <pubDate>Sun, 14 Apr 2019 11:24:59 +0700</pubDate>
-      <author>chanunnaki@gmail.com (Chaunnaki)</author>
+      <author>chanunnaki@gmail.com (Chanunnaki)</author>
       <guid>https://downandoutput.com/posts/change-mac-icons/</guid>
-      <description>If you ever felt like you&amp;rsquo;d like to customise and change the standard icons of any app, file, or folder on macOS, but you didn&amp;rsquo;t know how, you&amp;rsquo;ve come to the right place. It&amp;rsquo;s actually very easy, and can be done in just a few very simple steps.
-You first need to find and download an icon of your choice. I recommend the site IconArchive, they have many high-quality icons.</description>
+      <description>
+
+&lt;p&gt;If you ever felt like you&amp;rsquo;d like to customise and change the standard icons of any app, file, or folder on macOS, but you didn&amp;rsquo;t know how, you&amp;rsquo;ve come to the right place. It&amp;rsquo;s actually very easy, and can be done in just a few very simple steps.&lt;/p&gt;
+
+&lt;p&gt;You first need to find and download an icon of your choice. I recommend the site &lt;a href=&#34;http://www.iconarchive.com/&#34;&gt;IconArchive&lt;/a&gt;, they have many high-quality icons. There are a few different icon formats available on the site, but the one you need for Mac is the &lt;code&gt;.icns&lt;/code&gt; format. If you&amp;rsquo;ve got a retina display, I suggest you filter for &lt;em&gt;Large Icons&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Once its downloaded, place the &lt;code&gt;.icns&lt;/code&gt; file on your desktop, or anywhere easily accessible.&lt;/p&gt;
+
+&lt;h2 id=&#34;let-s-begin&#34;&gt;Let&amp;rsquo;s Begin&lt;/h2&gt;
+
+&lt;p&gt;As an example, let&amp;rsquo;s say you&amp;rsquo;d like to change the default icon of your Macintosh HD.&lt;/p&gt;
+
+&lt;p&gt;Normally, the icon looks like this:&lt;/p&gt;
+
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;img/1.png&#34;  alt=&#34;Default Macintosh HD Icon&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    
+      &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Default Macintosh HD Icon&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+
+&lt;p&gt;And you want to change it to this one, by &lt;a href=&#34;http://www.iconarchive.com/artist/robsonbillponte.html&#34;&gt;Robsonbillponte&lt;/a&gt;:&lt;/p&gt;
+
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;img/drive.png&#34;  alt=&#34;New Drive Icon&#34;   style=&#34;border-radius: 8px; width: 256px;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;New Drive Icon&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+
+&lt;p&gt;Just click once on the drive until it&amp;rsquo;s highlighted, like this:&lt;/p&gt;
+
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;img/2.png&#34;  alt=&#34;Highlight HD&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Select the HD&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+
+&lt;p&gt;Then, press &lt;code&gt;cmd(⌘) + i&lt;/code&gt; on your keyboard. This will open the &lt;em&gt;Info&lt;/em&gt; panel, like so:&lt;/p&gt;
+
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;img/3.png&#34;  alt=&#34;Info Panel&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Info Panel&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+
+&lt;p&gt;Finally, you can take your new icon and just just drag and drop it over the default icon at the top of the &lt;em&gt;Info&lt;/em&gt; panel.&lt;/p&gt;
+
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;img/video.gif&#34;  alt=&#34;Drag and Drop New Icon Over Old&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    
+      &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Drag and Drop New Icon Over Old&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+
+&lt;p&gt;macOS will often prompt you for a password to make the change, so just enter your password, press &lt;em&gt;Enter&lt;/em&gt; and &lt;em&gt;voilà&lt;/em&gt;, your icon will be changed. Simple.&lt;/p&gt;
+
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;img/4.png&#34;  alt=&#34;New Icon&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;New Icon&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+
+&lt;p&gt;You can do this with pretty much any file, folder or app across macOS.&lt;/p&gt;
+
+&lt;h2 id=&#34;reverting-back&#34;&gt;Reverting Back&lt;/h2&gt;
+
+&lt;p&gt;Should you want to revert back to the original icon, it&amp;rsquo;s also very easy. Just open up the &lt;em&gt;Info&lt;/em&gt; panel again, click the icon at the top, and press the delete key on your keyboard.&lt;/p&gt;
+
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;img/video2.gif&#34;  alt=&#34;Highlight and Delete&#34;   style=&#34;border-radius: 8px; &#34;  /&gt;
+    
+      &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Highlight and Delete&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Boom&lt;/strong&gt;, job done!&lt;/p&gt;
+</description>
+
     </item>
     
   </channel>
 </rss>
+
