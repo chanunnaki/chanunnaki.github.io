@@ -6,6 +6,8 @@
     <description>Recent content on Down &amp; Output</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>chanunnaki@gmail.com (Chaunnaki)</managingEditor>
+    <webMaster>chanunnaki@gmail.com (Chaunnaki)</webMaster>
     <lastBuildDate>Tue, 16 Apr 2019 21:36:18 +0700</lastBuildDate>
     
 	<atom:link href="https://downandoutput.com/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>🎮 The Future of Playstation</title>
       <link>https://downandoutput.com/posts/playstation-future/</link>
       <pubDate>Tue, 16 Apr 2019 21:36:18 +0700</pubDate>
-      
+      <author>chanunnaki@gmail.com (Chaunnaki)</author>
       <guid>https://downandoutput.com/posts/playstation-future/</guid>
       <description>Wired have just published an article with comments from Playstation lead system architect Mark Cerny.
  PlayStation’s next-generation console ticks all those boxes, starting with an AMD chip at the heart of the device. (Warning: some alphabet soup follows.) The CPU is based on the third generation of AMD’s Ryzen line and contains eight cores of the company’s new 7nm Zen 2 microarchitecture. The GPU, a custom variant of Radeon’s Navi family, will support ray tracing, a technique that models the travel of light to simulate complex interactions in 3D environments.</description>
@@ -25,7 +27,7 @@
       <title>⌨︎ Getting Started with Hugo</title>
       <link>https://downandoutput.com/posts/hugo-tut-one/</link>
       <pubDate>Tue, 16 Apr 2019 17:06:20 +0700</pubDate>
-      
+      <author>chanunnaki@gmail.com (Chaunnaki)</author>
       <guid>https://downandoutput.com/posts/hugo-tut-one/</guid>
       <description>In the first part of this three-part series, I&amp;rsquo;ll guide you in setting up a simple blog like the one you&amp;rsquo;re on right now, and show you how to host it for free on Github Pages. When I began on this journey myself, I had close to zero experience with Github. I followed some of the available guides already out there on the web, (including those from Hugo themselves), but there were some parts that didn’t quite click with me right away and it relied upon a lot of time and trial &amp;amp; error before it all finally worked.</description>
     </item>
@@ -34,7 +36,7 @@
       <title>⌘ Terminal Navigation 101</title>
       <link>https://downandoutput.com/posts/terminal-tutorial/</link>
       <pubDate>Tue, 16 Apr 2019 10:11:56 +0700</pubDate>
-      
+      <author>chanunnaki@gmail.com (Chaunnaki)</author>
       <guid>https://downandoutput.com/posts/terminal-tutorial/</guid>
       <description>The Terminal, (AKA CLI, or &amp;ldquo;Command-Line Interface&amp;rdquo;) is super-powerful and allows you to interface directly with the underlying workings of your operating system. It&amp;rsquo;s pretty essential you learn how to use the Terminal if you&amp;rsquo;re going to be developing software or doing any more advanced operations within your operating system as many operations are done exclusively through the Terminal.
 In this post, I&amp;rsquo;ll give you a quick run-down on how to navigate your file system in Terminal.</description>
@@ -44,7 +46,7 @@ In this post, I&amp;rsquo;ll give you a quick run-down on how to navigate your f
       <title>🎮 SNES HD</title>
       <link>https://downandoutput.com/posts/snes-hd/</link>
       <pubDate>Tue, 16 Apr 2019 07:19:01 +0700</pubDate>
-      
+      <author>chanunnaki@gmail.com (Chaunnaki)</author>
       <guid>https://downandoutput.com/posts/snes-hd/</guid>
       <description>A user going by the name &amp;ldquo;DerKoun&amp;rdquo; has submitted a post on the /r/emulation subreddit about a mod to popular cycle-accurate Super Nintendo emulator - BSNES - which makes it possible to increase the resolution of Mode 7 graphics by 4X. essentially turning classic SNES games into HD.
 Mode 7 is the Super Nintendo&amp;rsquo;s built-in hardware-accelerated mathematical functions which allows for efficient rotation and scaling of sprites on the screen.</description>
@@ -54,7 +56,7 @@ Mode 7 is the Super Nintendo&amp;rsquo;s built-in hardware-accelerated mathemati
       <title>⌘ Change macOS Icons</title>
       <link>https://downandoutput.com/posts/change-mac-icons/</link>
       <pubDate>Sun, 14 Apr 2019 11:24:59 +0700</pubDate>
-      
+      <author>chanunnaki@gmail.com (Chaunnaki)</author>
       <guid>https://downandoutput.com/posts/change-mac-icons/</guid>
       <description>If you ever felt like you&amp;rsquo;d like to customise and change the standard icons of any app, file, or folder on macOS, but you didn&amp;rsquo;t know how, you&amp;rsquo;ve come to the right place. It&amp;rsquo;s actually very easy, and can be done in just a few very simple steps.
 You first need to find and download an icon of your choice. I recommend the site IconArchive, they have many high-quality icons.</description>
@@ -64,7 +66,7 @@ You first need to find and download an icon of your choice. I recommend the site
       <title>⌘ macOS Color Pickers</title>
       <link>https://downandoutput.com/posts/mac-color-pickers/</link>
       <pubDate>Fri, 12 Apr 2019 14:49:14 +0700</pubDate>
-      
+      <author>chanunnaki@gmail.com (Chaunnaki)</author>
       <guid>https://downandoutput.com/posts/mac-color-pickers/</guid>
       <description>In nature, light creates the color. In the picture, color creates the light.
 -Hans Hoffman
@@ -75,7 +77,7 @@ You first need to find and download an icon of your choice. I recommend the site
       <title>Contact Information</title>
       <link>https://downandoutput.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>chanunnaki@gmail.com (Chaunnaki)</author>
       <guid>https://downandoutput.com/contact/</guid>
       <description>.post-read-time{ display: none; }  If you&amp;rsquo;d like to get in touch with me, you may do so at the following email:
 chanunnaki@gmail.com</description>

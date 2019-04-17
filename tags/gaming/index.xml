@@ -6,6 +6,8 @@
     <description>Recent content in gaming on Down &amp; Output</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>chanunnaki@gmail.com (Chaunnaki)</managingEditor>
+    <webMaster>chanunnaki@gmail.com (Chaunnaki)</webMaster>
     <lastBuildDate>Tue, 16 Apr 2019 21:36:18 +0700</lastBuildDate>
     
 	<atom:link href="https://downandoutput.com/tags/gaming/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>🎮 The Future of Playstation</title>
       <link>https://downandoutput.com/posts/playstation-future/</link>
       <pubDate>Tue, 16 Apr 2019 21:36:18 +0700</pubDate>
-      
+      <author>chanunnaki@gmail.com (Chaunnaki)</author>
       <guid>https://downandoutput.com/posts/playstation-future/</guid>
       <description>Wired have just published an article with comments from Playstation lead system architect Mark Cerny.
  PlayStation’s next-generation console ticks all those boxes, starting with an AMD chip at the heart of the device. (Warning: some alphabet soup follows.) The CPU is based on the third generation of AMD’s Ryzen line and contains eight cores of the company’s new 7nm Zen 2 microarchitecture. The GPU, a custom variant of Radeon’s Navi family, will support ray tracing, a technique that models the travel of light to simulate complex interactions in 3D environments.</description>
@@ -25,7 +27,7 @@
       <title>🎮 SNES HD</title>
       <link>https://downandoutput.com/posts/snes-hd/</link>
       <pubDate>Tue, 16 Apr 2019 07:19:01 +0700</pubDate>
-      
+      <author>chanunnaki@gmail.com (Chaunnaki)</author>
       <guid>https://downandoutput.com/posts/snes-hd/</guid>
       <description>A user going by the name &amp;ldquo;DerKoun&amp;rdquo; has submitted a post on the /r/emulation subreddit about a mod to popular cycle-accurate Super Nintendo emulator - BSNES - which makes it possible to increase the resolution of Mode 7 graphics by 4X. essentially turning classic SNES games into HD.
 Mode 7 is the Super Nintendo&amp;rsquo;s built-in hardware-accelerated mathematical functions which allows for efficient rotation and scaling of sprites on the screen.</description>
