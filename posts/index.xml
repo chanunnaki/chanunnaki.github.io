@@ -2,7 +2,7 @@
   <channel>
     <title>Down &amp; Output</title>
     <link>https://downandoutput.com/posts/</link>
-    <description>Recentx content in Posts on Down &amp; Output</description>
+    <description>Recent content on Down &amp; Output</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Apr 2019 21:36:18 +0700</lastBuildDate>
@@ -16,7 +16,11 @@
       <pubDate>Tue, 16 Apr 2019 21:36:18 +0700</pubDate>
       
       <guid>https://downandoutput.com/posts/playstation-future/</guid>
-      <description>&lt;p&gt;Wired have just published an &lt;a href=&#34;https://www.wired.com/story/exclusive-sony-next-gen-console/&#34;&gt;article&lt;/a&gt; with comments from Playstation lead system architect Mark Cerny.&lt;/p&gt;
+      <description>    
+      
+        <img src="https://downandoutput.com/posts/playstation-future/cover.jpg" class="post-cover" />
+      
+    &lt;p&gt;Wired have just published an &lt;a href=&#34;https://www.wired.com/story/exclusive-sony-next-gen-console/&#34;&gt;article&lt;/a&gt; with comments from Playstation lead system architect Mark Cerny.&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;PlayStation’s next-generation console ticks all those boxes, starting with an AMD chip at the heart of the device. (Warning: some alphabet soup follows.) The CPU is based on the third generation of AMD’s Ryzen line and contains eight cores of the company’s new 7nm Zen 2 microarchitecture. The GPU, a custom variant of Radeon’s Navi family, will support ray tracing, a technique that models the travel of light to simulate complex interactions in 3D environments. While ray tracing is a staple of Hollywood visual effects and is beginning to worm its way into $10,000 high-end processors, no game console has been able to manage it. Yet.&lt;/p&gt;
@@ -44,7 +48,11 @@
 
 &lt;p&gt;Via: &lt;a href=&#34;https://www.wired.com/story/exclusive-sony-next-gen-console/&#34;&gt;Wired&lt;/a&gt;. Paid subscription (possibly) required.&lt;/p&gt;
 </description>
-      <content type="html"><![CDATA[<p>Wired have just published an <a href="https://www.wired.com/story/exclusive-sony-next-gen-console/">article</a> with comments from Playstation lead system architect Mark Cerny.</p>
+      <content type="html">    
+      
+        <img src="https://downandoutput.com/posts/playstation-future/cover.jpg" class="post-cover" />
+      
+    <![CDATA[<p>Wired have just published an <a href="https://www.wired.com/story/exclusive-sony-next-gen-console/">article</a> with comments from Playstation lead system architect Mark Cerny.</p>
 
 <blockquote>
 <p>PlayStation’s next-generation console ticks all those boxes, starting with an AMD chip at the heart of the device. (Warning: some alphabet soup follows.) The CPU is based on the third generation of AMD’s Ryzen line and contains eight cores of the company’s new 7nm Zen 2 microarchitecture. The GPU, a custom variant of Radeon’s Navi family, will support ray tracing, a technique that models the travel of light to simulate complex interactions in 3D environments. While ray tracing is a staple of Hollywood visual effects and is beginning to worm its way into $10,000 high-end processors, no game console has been able to manage it. Yet.</p>
@@ -80,7 +88,11 @@
       <pubDate>Tue, 16 Apr 2019 17:06:20 +0700</pubDate>
       
       <guid>https://downandoutput.com/posts/hugo-tut-one/</guid>
-      <description>
+      <description>    
+      
+        <img src="https://downandoutput.com/posts/hugo-tut-one/cover.jpg" class="post-cover" />
+      
+    
 
 &lt;p&gt;In the first part of this three-part series, I&amp;rsquo;ll guide you in setting up a simple blog like the one you&amp;rsquo;re on right now, and show you how to host it for free on Github Pages. When I began on this journey myself, I had close to zero experience with Github. I followed some of the available guides already out there on the web, (including those from Hugo themselves), but there were some parts that didn’t quite click with me right away and it relied upon a lot of time and trial &amp;amp; error before it all finally worked.&lt;/p&gt;
 
@@ -262,7 +274,11 @@ All the custom content you create for your site will reside in this &lt;code&gt;
 
 &lt;p&gt;Check back in next time for the next part of this tutorial where we&amp;rsquo;ll delve into exactly how to have your site hosted on GitHub Pages. See you!&lt;/p&gt;
 </description>
-      <content type="html"><![CDATA[
+      <content type="html">    
+      
+        <img src="https://downandoutput.com/posts/hugo-tut-one/cover.jpg" class="post-cover" />
+      
+    <![CDATA[
 
 <p>In the first part of this three-part series, I&rsquo;ll guide you in setting up a simple blog like the one you&rsquo;re on right now, and show you how to host it for free on Github Pages. When I began on this journey myself, I had close to zero experience with Github. I followed some of the available guides already out there on the web, (including those from Hugo themselves), but there were some parts that didn’t quite click with me right away and it relied upon a lot of time and trial &amp; error before it all finally worked.</p>
 
@@ -452,7 +468,11 @@ All the custom content you create for your site will reside in this <code>conten
       <pubDate>Tue, 16 Apr 2019 10:11:56 +0700</pubDate>
       
       <guid>https://downandoutput.com/posts/terminal-tutorial/</guid>
-      <description>
+      <description>    
+      
+        <img src="https://downandoutput.com/posts/terminal-tutorial/cover.png" class="post-cover" />
+      
+    
 
 &lt;p&gt;The Terminal, (AKA &lt;code&gt;CLI&lt;/code&gt;, or &amp;ldquo;Command-Line Interface&amp;rdquo;) is super-powerful and allows you to interface directly with the underlying workings of your operating system. It&amp;rsquo;s pretty essential you learn how to use the Terminal if you&amp;rsquo;re going to be developing software or doing any more advanced operations within your operating system as many operations are done exclusively through the Terminal.&lt;/p&gt;
 
@@ -679,7 +699,11 @@ Alternatively, you can open it by pressing &lt;code&gt;cmd + space&lt;/code&gt; 
 
 &lt;p&gt;This is only barely touching the surface of what can be accomplished in Terminal. As I said before, getting familiar with the Terminal is essential if you&amp;rsquo;re interesting in going deeper into what is possible with your computer. In other words&amp;hellip; becoming a &lt;em&gt;Power User&lt;/em&gt;.  I hope this tutorial can help you in making those first steps.&lt;/p&gt;
 </description>
-      <content type="html"><![CDATA[
+      <content type="html">    
+      
+        <img src="https://downandoutput.com/posts/terminal-tutorial/cover.png" class="post-cover" />
+      
+    <![CDATA[
 
 <p>The Terminal, (AKA <code>CLI</code>, or &ldquo;Command-Line Interface&rdquo;) is super-powerful and allows you to interface directly with the underlying workings of your operating system. It&rsquo;s pretty essential you learn how to use the Terminal if you&rsquo;re going to be developing software or doing any more advanced operations within your operating system as many operations are done exclusively through the Terminal.</p>
 
@@ -914,7 +938,11 @@ Alternatively, you can open it by pressing <code>cmd + space</code> on your keyb
       <pubDate>Tue, 16 Apr 2019 07:19:01 +0700</pubDate>
       
       <guid>https://downandoutput.com/posts/snes-hd/</guid>
-      <description>&lt;p&gt;A user going by the name &amp;ldquo;DerKoun&amp;rdquo; has submitted a post on the &lt;a href=&#34;https://www.reddit.com/r/emulation/comments/bdltmo/hd_mode_7_mod_for_bsnes_v1071_beta_1/&#34;&gt;/r/emulation subreddit&lt;/a&gt; about a mod to popular cycle-accurate Super Nintendo emulator - &lt;a href=&#34;https://bsnes.byuu.org&#34;&gt;BSNES&lt;/a&gt; - which makes it possible to increase the resolution of Mode 7 graphics by 4X. essentially turning classic SNES games into HD.&lt;/p&gt;
+      <description>    
+      
+        <img src="https://downandoutput.com/posts/snes-hd/cover.jpg" class="post-cover" />
+      
+    &lt;p&gt;A user going by the name &amp;ldquo;DerKoun&amp;rdquo; has submitted a post on the &lt;a href=&#34;https://www.reddit.com/r/emulation/comments/bdltmo/hd_mode_7_mod_for_bsnes_v1071_beta_1/&#34;&gt;/r/emulation subreddit&lt;/a&gt; about a mod to popular cycle-accurate Super Nintendo emulator - &lt;a href=&#34;https://bsnes.byuu.org&#34;&gt;BSNES&lt;/a&gt; - which makes it possible to increase the resolution of Mode 7 graphics by 4X. essentially turning classic SNES games into HD.&lt;/p&gt;
 
 &lt;p&gt;Mode 7 is the Super Nintendo&amp;rsquo;s built-in hardware-accelerated mathematical functions which allows for efficient rotation and scaling of sprites on the screen.&lt;/p&gt;
 
@@ -946,7 +974,11 @@ Alternatively, you can open it by pressing <code>cmd + space</code> on your keyb
 
 &lt;p&gt;Unfortunately, this mod is currently only available for the Windows branch of BSNES, but it&amp;rsquo;s likely we will see port to macOS, Linux and other systems in short order.&lt;/p&gt;
 </description>
-      <content type="html"><![CDATA[<p>A user going by the name &ldquo;DerKoun&rdquo; has submitted a post on the <a href="https://www.reddit.com/r/emulation/comments/bdltmo/hd_mode_7_mod_for_bsnes_v1071_beta_1/">/r/emulation subreddit</a> about a mod to popular cycle-accurate Super Nintendo emulator - <a href="https://bsnes.byuu.org">BSNES</a> - which makes it possible to increase the resolution of Mode 7 graphics by 4X. essentially turning classic SNES games into HD.</p>
+      <content type="html">    
+      
+        <img src="https://downandoutput.com/posts/snes-hd/cover.jpg" class="post-cover" />
+      
+    <![CDATA[<p>A user going by the name &ldquo;DerKoun&rdquo; has submitted a post on the <a href="https://www.reddit.com/r/emulation/comments/bdltmo/hd_mode_7_mod_for_bsnes_v1071_beta_1/">/r/emulation subreddit</a> about a mod to popular cycle-accurate Super Nintendo emulator - <a href="https://bsnes.byuu.org">BSNES</a> - which makes it possible to increase the resolution of Mode 7 graphics by 4X. essentially turning classic SNES games into HD.</p>
 
 <p>Mode 7 is the Super Nintendo&rsquo;s built-in hardware-accelerated mathematical functions which allows for efficient rotation and scaling of sprites on the screen.</p>
 
@@ -986,7 +1018,11 @@ Alternatively, you can open it by pressing <code>cmd + space</code> on your keyb
       <pubDate>Sun, 14 Apr 2019 11:24:59 +0700</pubDate>
       
       <guid>https://downandoutput.com/posts/change-mac-icons/</guid>
-      <description>
+      <description>    
+      
+        <img src="https://downandoutput.com/posts/change-mac-icons/cover.jpg" class="post-cover" />
+      
+    
 
 &lt;p&gt;If you ever felt like you&amp;rsquo;d like to customise and change the standard icons of any app, file, or folder on macOS, but you didn&amp;rsquo;t know how, you&amp;rsquo;ve come to the right place. It&amp;rsquo;s actually very easy, and can be done in just a few very simple steps.&lt;/p&gt;
 
@@ -1088,7 +1124,11 @@ Alternatively, you can open it by pressing <code>cmd + space</code> on your keyb
 
 &lt;p&gt;&lt;strong&gt;Boom&lt;/strong&gt;, job done!&lt;/p&gt;
 </description>
-      <content type="html"><![CDATA[
+      <content type="html">    
+      
+        <img src="https://downandoutput.com/posts/change-mac-icons/cover.jpg" class="post-cover" />
+      
+    <![CDATA[
 
 <p>If you ever felt like you&rsquo;d like to customise and change the standard icons of any app, file, or folder on macOS, but you didn&rsquo;t know how, you&rsquo;ve come to the right place. It&rsquo;s actually very easy, and can be done in just a few very simple steps.</p>
 
@@ -1198,7 +1238,11 @@ Alternatively, you can open it by pressing <code>cmd + space</code> on your keyb
       <pubDate>Fri, 12 Apr 2019 14:49:14 +0700</pubDate>
       
       <guid>https://downandoutput.com/posts/mac-color-pickers/</guid>
-      <description>
+      <description>    
+      
+        <img src="https://downandoutput.com/posts/mac-color-pickers/cover.png" class="post-cover" />
+      
+    
 
 &lt;blockquote&gt;
 &lt;p&gt;In nature, light creates the color. In the picture, color creates the light.&lt;br /&gt;
@@ -1448,7 +1492,11 @@ Colours.app [750KB] &lt;a href=&#34;./files/Colours.zip&#34;&gt;DOWNLOAD&lt;/a&g
 
 &lt;p&gt;Update: If you&amp;rsquo;d like to know how to change the icon of any App, File or Folder on macOS, check out this small guide &lt;a href=&#34;https://downandoutput.com/posts/change-mac-icons/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
-      <content type="html"><![CDATA[
+      <content type="html">    
+      
+        <img src="https://downandoutput.com/posts/mac-color-pickers/cover.png" class="post-cover" />
+      
+    <![CDATA[
 
 <blockquote>
 <p>In nature, light creates the color. In the picture, color creates the light.<br />
