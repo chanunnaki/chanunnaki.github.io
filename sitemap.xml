@@ -1,46 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://downandoutput.com/</loc>
-    <lastmod>2019-04-17T19:09:44+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://downandoutput.com/posts/</loc>
-    <lastmod>2019-04-17T19:09:44+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://downandoutput.com/tags/</loc>
-    <lastmod>2019-04-17T19:09:44+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://downandoutput.com/tags/android/</loc>
-    <lastmod>2019-04-17T19:09:44+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://downandoutput.com/tags/lineageos/</loc>
-    <lastmod>2019-04-17T19:09:44+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://downandoutput.com/tags/nvidia/</loc>
-    <lastmod>2019-04-17T19:09:44+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://downandoutput.com/posts/lineageos-k1-update/</loc>
-    <lastmod>2019-04-17T19:09:44+07:00</lastmod>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://downandoutput.com/</loc>
+  <lastmod>2019-04-15T05:44:30+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://downandoutput.com/posts/change-mac-icons/</loc>
+  <lastmod>2019-04-15T05:44:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://downandoutput.com/posts/mac-color-pickers/</loc>
+  <lastmod>2019-04-15T05:44:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://downandoutput.com/palette_sip.html</loc>
+  <lastmod>2019-04-15T05:44:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://downandoutput.com/palette_aquarello.html</loc>
+  <lastmod>2019-04-15T05:44:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>astmod>2019-04-17T19:09:44+07:00</lastmod>
   </url>
   
   <url>

@@ -1,6 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Down &amp; Output</title>
+    <icon>https://downandoutput.com/apple-icon-180x180.png</icon>
+    <favicon>https://downandoutput.com/favicon-96x96.png</favicon>
     <link>https://downandoutput.com/tags/hd/</link>
     <description>Recent content on Down &amp; Output</description>
     <generator>Hugo -- gohugo.io</generator>
