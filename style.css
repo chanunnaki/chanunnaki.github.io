@@ -10,6 +10,15 @@
 	background: #191926;
 }
 
+.titleicon {
+	fill: #38FE28;	
+	alignment-baseline: baseline;
+	vertical-align: middle;
+	align-self: right;
+	margin-right: none;
+	margin-left: none;
+}
+
 figcaption {
 	background-color: #191926;
 	border-radius: 4px;
