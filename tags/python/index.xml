@@ -22,7 +22,7 @@
       <guid>https://downandoutput.com/posts/pretty-json-terminal/</guid>
       <description>If you deal with JSON API requests through the terminal with cURL, you might be frustrated with the how the resulting data is rendered. In a normal API call (in this case, the Chuck Norris Database):
 curl http://api.icndb.com/jokes/random  &amp;hellip;there is no formatting at all, see:
-JSON with No Formatting  In order to get your JSON responses to print out in the Terminal for pretty formatting, you can pipe (using the | character) the response into Python using the following command:</description>
+JSON with No Formatting  In order to get your JSON responses to print out in the Terminal prettily formatted, you can pipe (using the | character) the response into Python using the following command:</description>
 
     </item>
     
