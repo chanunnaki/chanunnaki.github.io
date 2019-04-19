@@ -9,10 +9,22 @@
     <language>en-us</language>
     <managingEditor>chanunnaki@gmail.com (Chanunnaki)</managingEditor>
     <webMaster>chanunnaki@gmail.com (Chanunnaki)</webMaster>
-    <lastBuildDate>Wed, 17 Apr 2019 19:09:44 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2019 12:35:36 +0700</lastBuildDate>
     
         <atom:link href="https://downandoutput.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>⌨︎ Pretty JSON in Terminal</title>
+      <link>https://downandoutput.com/posts/pretty-json-terminal/</link>
+      <pubDate>Fri, 19 Apr 2019 12:35:36 +0700</pubDate>
+      <author>chanunnaki@gmail.com (Chanunnaki)</author>
+      <guid>https://downandoutput.com/posts/pretty-json-terminal/</guid>
+      <description>If you deal with JSON API requests through the terminal with cURL, you might be frustrated with the how the resulting data is rendered. In a normal API call (in this case, the Chuck Norris Database):
+curl http://api.icndb.com/jokes/random  &amp;hellip;there is no formatting at all, see:
+JSON with No Formatting  In order to get your JSON responses to print out in the Terminal for pretty formatting, you can pipe (using the | character) the response into Python using the following command:</description>
+
+    </item>
     
     <item>
       <title>🤖 LineageOS 15.1 for Nvidia Shield Tablet K1</title>

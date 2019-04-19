@@ -3,7 +3,7 @@
     <title>Down &amp; Output</title>
     <icon>https://downandoutput.com/apple-icon-180x180.png</icon>
     <favicon>https://downandoutput.com/favicon-96x96.png</favicon>
-    <link>https://downandoutput.com/tags/terminal/</link>
+    <link>https://downandoutput.com/tags/python/</link>
     <description>Recent content on Down &amp; Output</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,7 +11,7 @@
     <webMaster>chanunnaki@gmail.com (Chanunnaki)</webMaster>
     <lastBuildDate>Fri, 19 Apr 2019 12:35:36 +0700</lastBuildDate>
     
-        <atom:link href="https://downandoutput.com/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://downandoutput.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -23,17 +23,6 @@
       <description>If you deal with JSON API requests through the terminal with cURL, you might be frustrated with the how the resulting data is rendered. In a normal API call (in this case, the Chuck Norris Database):
 curl http://api.icndb.com/jokes/random  &amp;hellip;there is no formatting at all, see:
 JSON with No Formatting  In order to get your JSON responses to print out in the Terminal for pretty formatting, you can pipe (using the | character) the response into Python using the following command:</description>
-
-    </item>
-    
-    <item>
-      <title>⌘ Terminal Navigation 101</title>
-      <link>https://downandoutput.com/posts/terminal-tutorial/</link>
-      <pubDate>Tue, 16 Apr 2019 10:11:56 +0700</pubDate>
-      <author>chanunnaki@gmail.com (Chanunnaki)</author>
-      <guid>https://downandoutput.com/posts/terminal-tutorial/</guid>
-      <description>The Terminal, (AKA CLI, or &amp;ldquo;Command-Line Interface&amp;rdquo;) is super-powerful and allows you to interface directly with the underlying workings of your operating system. It&amp;rsquo;s pretty essential you learn how to use the Terminal if you&amp;rsquo;re going to be developing software or doing any more advanced operations within your operating system as many operations are done exclusively through the Terminal.
-In this post, I&amp;rsquo;ll give you a quick run-down on how to navigate your file system in Terminal.</description>
 
     </item>
     
