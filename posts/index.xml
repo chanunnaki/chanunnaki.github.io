@@ -9,10 +9,20 @@
     <language>en-us</language>
     <managingEditor>chanunnaki@gmail.com (Chanunnaki)</managingEditor>
     <webMaster>chanunnaki@gmail.com (Chanunnaki)</webMaster>
-    <lastBuildDate>Fri, 19 Apr 2019 12:35:36 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2019 13:10:30 +0700</lastBuildDate>
     
         <atom:link href="https://downandoutput.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Game Boy Turns 30</title>
+      <link>https://downandoutput.com/posts/gameboy-30/</link>
+      <pubDate>Sat, 20 Apr 2019 13:10:30 +0700</pubDate>
+      <author>chanunnaki@gmail.com (Chanunnaki)</author>
+      <guid>https://downandoutput.com/posts/gameboy-30/</guid>
+      <description>Today, the 21st of April 2019, marks the 30th anniversary of the launch of the original Nintendo Game Boy in Japan. The Game Boy was arguably technologically inferior to other portable handheld consoles released around that time such as the Atari Lynx and the Sega Game Gear, yet Nintendo&amp;rsquo;s Game Boy still managed to create and maintain a gigantic sales lead compared to the competition throughout it&amp;rsquo;s lifecycle. The Game Boy and it&amp;rsquo;s subsequent iterations even became something of a massive cultural phenomenon in terms of brand recognition and loyalty whose legacy lives on to this day and goes down in history as one of the top-selling dedicated gaming consoles of all time.</description>
+
+    </item>
     
     <item>
       <title>Pretty JSON in Terminal</title>

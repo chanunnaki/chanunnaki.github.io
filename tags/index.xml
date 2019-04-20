@@ -9,10 +9,50 @@
     <language>en-us</language>
     <managingEditor>chanunnaki@gmail.com (Chanunnaki)</managingEditor>
     <webMaster>chanunnaki@gmail.com (Chanunnaki)</webMaster>
-    <lastBuildDate>Fri, 19 Apr 2019 12:35:36 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2019 13:10:30 +0700</lastBuildDate>
     
         <atom:link href="https://downandoutput.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>emulation</title>
+      <link>https://downandoutput.com/tags/emulation/</link>
+      <pubDate>Sat, 20 Apr 2019 13:10:30 +0700</pubDate>
+      <author>chanunnaki@gmail.com (Chanunnaki)</author>
+      <guid>https://downandoutput.com/tags/emulation/</guid>
+      <description></description>
+
+    </item>
+    
+    <item>
+      <title>gameboy</title>
+      <link>https://downandoutput.com/tags/gameboy/</link>
+      <pubDate>Sat, 20 Apr 2019 13:10:30 +0700</pubDate>
+      <author>chanunnaki@gmail.com (Chanunnaki)</author>
+      <guid>https://downandoutput.com/tags/gameboy/</guid>
+      <description></description>
+
+    </item>
+    
+    <item>
+      <title>gaming</title>
+      <link>https://downandoutput.com/tags/gaming/</link>
+      <pubDate>Sat, 20 Apr 2019 13:10:30 +0700</pubDate>
+      <author>chanunnaki@gmail.com (Chanunnaki)</author>
+      <guid>https://downandoutput.com/tags/gaming/</guid>
+      <description></description>
+
+    </item>
+    
+    <item>
+      <title>nintendo</title>
+      <link>https://downandoutput.com/tags/nintendo/</link>
+      <pubDate>Sat, 20 Apr 2019 13:10:30 +0700</pubDate>
+      <author>chanunnaki@gmail.com (Chanunnaki)</author>
+      <guid>https://downandoutput.com/tags/nintendo/</guid>
+      <description></description>
+
+    </item>
     
     <item>
       <title>JSON</title>
@@ -80,16 +120,6 @@
       <pubDate>Wed, 17 Apr 2019 19:09:44 +0700</pubDate>
       <author>chanunnaki@gmail.com (Chanunnaki)</author>
       <guid>https://downandoutput.com/tags/nvidia/</guid>
-      <description></description>
-
-    </item>
-    
-    <item>
-      <title>gaming</title>
-      <link>https://downandoutput.com/tags/gaming/</link>
-      <pubDate>Tue, 16 Apr 2019 21:36:18 +0700</pubDate>
-      <author>chanunnaki@gmail.com (Chanunnaki)</author>
-      <guid>https://downandoutput.com/tags/gaming/</guid>
       <description></description>
 
     </item>
@@ -165,31 +195,11 @@
     </item>
     
     <item>
-      <title>emulation</title>
-      <link>https://downandoutput.com/tags/emulation/</link>
-      <pubDate>Tue, 16 Apr 2019 07:19:01 +0700</pubDate>
-      <author>chanunnaki@gmail.com (Chanunnaki)</author>
-      <guid>https://downandoutput.com/tags/emulation/</guid>
-      <description></description>
-
-    </item>
-    
-    <item>
       <title>hd</title>
       <link>https://downandoutput.com/tags/hd/</link>
       <pubDate>Tue, 16 Apr 2019 07:19:01 +0700</pubDate>
       <author>chanunnaki@gmail.com (Chanunnaki)</author>
       <guid>https://downandoutput.com/tags/hd/</guid>
-      <description></description>
-
-    </item>
-    
-    <item>
-      <title>nintendo</title>
-      <link>https://downandoutput.com/tags/nintendo/</link>
-      <pubDate>Tue, 16 Apr 2019 07:19:01 +0700</pubDate>
-      <author>chanunnaki@gmail.com (Chanunnaki)</author>
-      <guid>https://downandoutput.com/tags/nintendo/</guid>
       <description></description>
 
     </item>

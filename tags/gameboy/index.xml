@@ -3,7 +3,7 @@
     <title>Down &amp; Output</title>
     <icon>https://downandoutput.com/apple-icon-180x180.png</icon>
     <favicon>https://downandoutput.com/favicon-96x96.png</favicon>
-    <link>https://downandoutput.com/tags/emulation/</link>
+    <link>https://downandoutput.com/tags/gameboy/</link>
     <description>Recent content on Down &amp; Output</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,7 +11,7 @@
     <webMaster>chanunnaki@gmail.com (Chanunnaki)</webMaster>
     <lastBuildDate>Sat, 20 Apr 2019 13:10:30 +0700</lastBuildDate>
     
-        <atom:link href="https://downandoutput.com/tags/emulation/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://downandoutput.com/tags/gameboy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,17 +21,6 @@
       <author>chanunnaki@gmail.com (Chanunnaki)</author>
       <guid>https://downandoutput.com/posts/gameboy-30/</guid>
       <description>Today, the 21st of April 2019, marks the 30th anniversary of the launch of the original Nintendo Game Boy in Japan. The Game Boy was arguably technologically inferior to other portable handheld consoles released around that time such as the Atari Lynx and the Sega Game Gear, yet Nintendo&amp;rsquo;s Game Boy still managed to create and maintain a gigantic sales lead compared to the competition throughout it&amp;rsquo;s lifecycle. The Game Boy and it&amp;rsquo;s subsequent iterations even became something of a massive cultural phenomenon in terms of brand recognition and loyalty whose legacy lives on to this day and goes down in history as one of the top-selling dedicated gaming consoles of all time.</description>
-
-    </item>
-    
-    <item>
-      <title>SNES HD</title>
-      <link>https://downandoutput.com/posts/snes-hd/</link>
-      <pubDate>Tue, 16 Apr 2019 07:19:01 +0700</pubDate>
-      <author>chanunnaki@gmail.com (Chanunnaki)</author>
-      <guid>https://downandoutput.com/posts/snes-hd/</guid>
-      <description>A user going by the name &amp;ldquo;DerKoun&amp;rdquo; has submitted a post on the /r/emulation subreddit about a mod to popular cycle-accurate Super Nintendo emulator - BSNES - which makes it possible to increase the resolution of Mode 7 graphics by 4X. essentially turning classic SNES games into HD.
-Mode 7 is the Super Nintendo&amp;rsquo;s built-in hardware-accelerated mathematical functions which allows for efficient rotation and scaling of sprites on the screen.</description>
 
     </item>
     
